@@ -486,4 +486,4 @@ $stoppedServices = Get-Service | Where-Object { $_.Status -eq "Stopped" }
 }
 
 (Get-Date).DayOfWeek
-((Get-Date).DayOfWeek -eq "Tuesday")
+((Get-Date).DayOfWeek -eq "Wednesday")
