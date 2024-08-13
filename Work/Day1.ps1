@@ -44,10 +44,10 @@ $array = ((1000*80)/(20*20))..1
 ##############################################
 # Find the error
 ##############################################
-# The following code is broken, can you fix it?
+# The following code is broken, can you fix it? (2 errors)
 
 $validColors = @("Red", "Green", "Blue", "Violet", "Black")
-Write-Host "The value of valid color #3 is $($validColors{2})"
+Write-Host 'The value of valid color #3 is $($validColors{2})'
 
 
 ##############################################
