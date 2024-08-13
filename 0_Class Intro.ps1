@@ -36,5 +36,5 @@ break
 # Monday     - Class Intro, Intro to Posh, Getting Started
 # Tuesday    - Excersises, Conditionals and Loops, Excersises (time permitting)
 # Wednesday  - Excersises, Sorting/Filtering, Error Handling, Functions
-# Thursday   - Excersises, Remoting, Infra Interaction
+# Thursday   - Excersises, Remoting, Infra Interaction (Active Directory, AzureAD, )
 # Friday     - Excersises, Help/Fallout
