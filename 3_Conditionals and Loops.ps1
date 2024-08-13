@@ -134,6 +134,40 @@ if($string1 -like "* Tim *") {
     Write-Host "Found 'Tim' inside of string1"
 }
 
+# --------------------------------------------------------------------------------------------------------------
+# Switch
+# --------------------------------------------------------------------------------------------------------------
+# Used as a decision tree, similar to a bunch of Ifs
+
+$name = "Tim"
+
+switch($name) {
+    "tim" {
+        Write-Host "The Name is Tim"
+    } 
+    "bob" {
+        Write-Host "The Name is Bob"
+    }
+    "charlie" {
+        Write-Host "The Name is Charlie"
+    }
+    default {
+        Write-Host "The Name is something else?!?"
+    }
+}
+
+# Rewritten as a giant if statement.
+
+if($name -eq "tim") {
+    Write-Host "The Name is Tim"
+}elseif ($name -eq "bob") {
+    Write-Host "The Name is Bob"
+}elseif ($name -eq "charlie") {
+    Write-Host "The Name is Charlie"
+} else {
+    Write-Host "The Name is something else?!?"  
+}
+
 
 # --------------------------------------------------------------------------------------------------------------
 # 3.3 Loops
@@ -154,18 +188,20 @@ if($string1 -like "* Tim *") {
 # WHILE checks condition and then runs code if True
 
 $sample = 1
+$files = Get-ChildItem -Path . -File
+$counter = 0
 
 do {
-    $sample++  # <- ++ is shorthand for $sample = $sample + 1
-    Write-Output "Do Loop Ran"
-}while($sample -eq 2)
+    Write-Host "Working on file: $($files[$counter])"
+    $counter++  # <- ++ is shorthand for $sample = $sample + 
+}while($counter -lt $files.Count) #<-- Loops while this is True
+Write-Host "All file processing complete"
 
-
-$sample = 1
+$sample = 9
 do {
     $sample++  # <- ++ is shorthand for $sample = $sample + 1
     Write-Output "Do Loop Ran, Sample is $($sample)"
-}until($sample -eq 10)
+}until($sample -eq 10) #<-- Loops while this is False
 
 # Counters can be used to ensure a Do/While loop only runs a certain
 # amount of times
@@ -206,9 +242,9 @@ while($count -lt 10) {
     $count++
 }
 
-while($sample -eq 2) {
+while($sample -eq 5) {
     Write-Output "While Loop Ran"
-    $sample++
+    #$sample++
 }
 $sample = 5
 while($sample -gt 1 -and $sample -lt 10 ) {
@@ -256,7 +292,7 @@ while($hyperv.Status -ne "Stopped") {
 # specify starting counter value, and step amount for each iteration
 
 # Anatomy of For Loop
- for($counter = 1;$counter -le 10;$counter++) { Write-Output "For Loop Ran, counter is $($counter)" }
+ for($counter = 1;$counter -le $files.Count-1;$counter++) { Write-Output "For Loop Ran, counter is $($counter)" }
 #--- ------------ --------------- ----------    ---------------------------------------------------
 # 1       2              3             4                                 5
 
@@ -308,7 +344,7 @@ foreach($item in $colors) {
     Write-Host "Current color is $($item)" 
 }
 
-foreach($bob in $colors) { 
+foreach($bob in $files) { 
     Write-Host "Current color is $($bob)" 
 }
 
@@ -338,6 +374,10 @@ $colors = "Red"
 
 $colors | ForEach-Object {
     Write-Host "Current color is $($_)"
+}
+
+$files | ForEach-Object { 
+    .\Get-Extension.ps1 -path $_
 }
 
 # The above code shows that it will work even if the object is a single object
@@ -421,36 +461,3 @@ Get-Service | Where-Object { $_.Status -eq "Stopped" }
 $stoppedServices = Get-Service | Where-Object { $_.Status -eq "Stopped" }
 
 
-# --------------------------------------------------------------------------------------------------------------
-# Switch
-# --------------------------------------------------------------------------------------------------------------
-# Used as a decision tree, similar to a bunch of Ifs
-
-$name = "Tim"
-
-switch($name) {
-    "tim" {
-        Write-Host "The Name is Tim"
-    } 
-    "bob" {
-        Write-Host "The Name is Bob"
-    }
-    "charlie" {
-        Write-Host "The Name is Charlie"
-    }
-    default {
-        Write-Host "The Name is something else?!?"
-    }
-}
-
-# Rewritten as a giant if statement.
-
-if($name -eq "tim") {
-    Write-Host "The Name is Tim"
-}elseif ($name -eq "bob") {
-    Write-Host "The Name is Bob"
-}elseif ($name -eq "charlie") {
-    Write-Host "The Name is Charlie"
-} else {
-    Write-Host "The Name is something else?!?"  
-}
