@@ -9,6 +9,7 @@ $myVar = @("Item 1", "Item 2", "Item 3", "Item 4")
 # Looking at lines 3-6 do you think $myVar will hold the value on the right?
 
 # If $myVar will successfully allow the value determine what DataType the result is
+# for each instance of $myVar (HINT: Do one at a time)
 
 ##############################################
 # Strings
