@@ -8,6 +8,7 @@ break
 # perform this action, if it is false I want to do this instead.
 
 $object = $true
+$object = $false
 
 # Anatomy of an IF statement (Shown in one line)
  if($object -eq $true){ Write-Host "This is True" }
@@ -97,7 +98,7 @@ if($sample -gt 1) {
     Write-Host "Sample is greater than 1"
 }
 
-if($sample -ge 2) {
+if($sample -gt 2) {
     Write-Host "Sample is Greater Than or Equal to 2"
 }
 
@@ -109,13 +110,19 @@ if($string1 -like "Tim*") {
     Write-Host "Found 'Tim' inside of string1"
 }
 
+# Null examples (swap to prove bug)
+if ($null -eq @()) { 'true' } else { 'false' }
+if ($null -ne @()) { 'true' } else { 'false' }
+
 # Notice the use of '*'.  This is your Wildcard character, this allows Tim
 # to be found regardless of what is in front or behind the word.  This can 
 # sometimes cause false positives like in the next example
 
-$string1 = "There was a time when all things were new"
+$string1 = "There was a tim when all things were new"
 
-if($string1 -like "*Tim*") {
+# Check why " *Tim* " does not find " time "
+
+if($string1 -like "* tim *") {
     Write-Host "Found 'Tim' inside of string1"
 }
 
