@@ -33,8 +33,8 @@ break
 # -------------------------------------------------------
 # Schedule
 # -------------------------------------------------------
-# Monday     - Class Intro, Intro to Posh
-# Tuesday    - Excersises, Getting Started, Conditionals and Loops
+# Monday     - Class Intro, Intro to Posh, Getting Started
+# Tuesday    - Excersises, Conditionals and Loops, Excersises (time permitting)
 # Wednesday  - Excersises, Sorting/Filtering, Error Handling, Functions
 # Thursday   - Excersises, Remoting, Infra Interaction
 # Friday     - Excersises, Help/Fallout
