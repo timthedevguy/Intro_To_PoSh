@@ -1,4 +1,5 @@
 break
+# Page 31
 # --------------------------------------------------------------------------------------------------------------
 # 3.1 What Are Conditionals
 # --------------------------------------------------------------------------------------------------------------
@@ -22,7 +23,7 @@ $object = $false
 #     a false then you need to add "Else".  We always catch the True condition
 
 # Anatomy of an IF/ELSE statement (Shown on one line)
-if($object -ne $true){ Write-Host "This is True" } Else { Write-Host "This is False" }
+if($object -eq $true){ Write-Host "This is True" } Else { Write-Host "This is False" }
 #                                                  ----   --------------------------
 #                                                   4                 5
 
@@ -84,14 +85,19 @@ ElseIf($object -eq "Red") {
 # -in       Item based in
 # -notin    Not in
 
+
 $test = ""
-[string]::IsNullOrEmpty($test)
+
+if($test -eq $null -or $test -eq ""){}
+
+[string]::IsNullOrEmpty($test)  # <-- Common shortcut for line 91 above
+
 if($test) {Write-Host "This is true"}
 
 $sample = 2
 
-if($sample -eq 1) {
-    Write-Host "Sample equals 1"
+if($sample -ge 2) {
+    Write-Host "Sample is 2"
 }
 
 if($sample -gt 1) {
@@ -104,13 +110,20 @@ if($sample -gt 2) {
 
 # LIKE/NOTLIKE is useful to search for strings
 
-$string1 = "Tim My name is Tim Davis"
+$string1 = "My name is Tim Davis"
 
-if($string1 -like "Tim*") {
+if($string1 -like "*Tim*") {
     Write-Host "Found 'Tim' inside of string1"
 }
 
-# Null examples (swap to prove bug)
+# Null examples
+# Null comparison should always have $null on left of comparison
+# operator, not doing so can incorrectly report an object
+# as null when it may just be empty.
+if (@() -eq $null) { 'true' } else { 'false' }
+if (@() -ne $null) { 'true' } else { 'false' }
+
+# Correct
 if ($null -eq @()) { 'true' } else { 'false' }
 if ($null -ne @()) { 'true' } else { 'false' }
 
@@ -137,9 +150,10 @@ if($string1 -like "* Tim *") {
 # --------------------------------------------------------------------------------------------------------------
 # Switch
 # --------------------------------------------------------------------------------------------------------------
-# Used as a decision tree, similar to a bunch of Ifs
+# Used as a decision tree, similar to a bunch of Ifs, it's not better or worse than
+# using a bunch of Ifs, just different
 
-$name = "Tim"
+$name = "Timd"
 
 switch($name) {
     "tim" {
@@ -188,16 +202,18 @@ if($name -eq "tim") {
 # WHILE checks condition and then runs code if True
 
 $sample = 1
+
 $files = Get-ChildItem -Path . -File
 $counter = 0
 
 do {
-    Write-Host "Working on file: $($files[$counter])"
+    Write-Host "Working on file: $($counter)" #$($files[$counter])"
     $counter++  # <- ++ is shorthand for $sample = $sample + 
-}while($counter -lt $files.Count) #<-- Loops while this is True
+}while($counter -lt 10) #<-- Loops while this is True
+
 Write-Host "All file processing complete"
 
-$sample = 9
+$sample = 0
 do {
     $sample++  # <- ++ is shorthand for $sample = $sample + 1
     Write-Output "Do Loop Ran, Sample is $($sample)"
@@ -238,7 +254,7 @@ do{
 $count = 1
 
 while($count -lt 10) {
-    Write-Output "Running!"
+    Write-Output "Running! $($count)"
     $count++
 }
 
@@ -292,7 +308,7 @@ while($hyperv.Status -ne "Stopped") {
 # specify starting counter value, and step amount for each iteration
 
 # Anatomy of For Loop
- for($counter = 1;$counter -le $files.Count-1;$counter++) { Write-Output "For Loop Ran, counter is $($counter)" }
+ for($counter = 1;$counter -le 10;$counter++) { Write-Output "For Loop Ran, counter is $($counter)" }
 #--- ------------ --------------- ----------    ---------------------------------------------------
 # 1       2              3             4                                 5
 
@@ -330,7 +346,7 @@ for($counter = 0;$counter -lt $colors.Count;$counter++) {
 $colors = "Red", "Green", "Blue"    # <-- Collection of colors (Array)
 
 # Anatomy of a foreach loop
- foreach($color in $colors) { Write-Host "Current color is $($color)" }
+ foreach($bob in $colors) { Write-Host "Current color is $($bob)" }
 #------- ------    -------    ---------------------------------------
 #   1      2          3                        4
 
@@ -375,15 +391,19 @@ $colors = "Red"
 $colors | ForEach-Object {
     Write-Host "Current color is $($_)"
 }
-
+$files = Get-ChildItem -Path . -File
 $files | ForEach-Object { 
-    .\Get-Extension.ps1 -path $_
+    .\Examples\Functions\Get-Extension.ps1 -path $_
 }
 
 # The above code shows that it will work even if the object is a single object
 # this allows you to treat everything as a collection and not worry about
 # if a cmdlet or function returns one or multiple items
 
+# How to have ForEach-Object with counter to be used for Indexing (for whatever reason)
+0..10 | ForEach-Object {
+    Write-Host "Counter is $($_)"
+}
 
 # --------------------------------------------------------------------------------------------------------------
 # 3.4 Selecting
@@ -461,3 +481,9 @@ Get-Service | Where-Object { $_.Status -eq "Stopped" }
 $stoppedServices = Get-Service | Where-Object { $_.Status -eq "Stopped" }
 
 
+1..100 | ForEach-Object {
+    Write-Host "Group-Name-$($_.ToString("000"))"
+}
+
+(Get-Date).DayOfWeek
+((Get-Date).DayOfWeek -eq "Tuesday")
