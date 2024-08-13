@@ -18,6 +18,5 @@ Function Get-LAPSPassword() {
             Password  = $computer."ms-Mcs-AdmPwd"
             ExpiresOn = [DateTime]::FromFileTimeUtc($computer."ms-Mcs-AdmPwdExpirationTime")
         }
-        # $computer
     }
 }

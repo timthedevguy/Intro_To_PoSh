@@ -228,7 +228,7 @@ $string2 = "The quick brown"
 $string3 = "lazy dog"
 $string4 = "fox jumps"
 
-#> Run lines 189-192.  Create a new string called string5, this string should be a combination of 
+#> Create a new string called string5, this string should be a combination of 
 #> string1 through 4 to create the sentance "The quick brown fox jumps over lazy dog"
 
 #> [DID YOU KNOW?]: "The quick brown fox jumps over lazy dog" is an english-language pangram, 
