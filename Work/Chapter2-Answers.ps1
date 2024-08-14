@@ -167,6 +167,7 @@ $EndingString = $EndingString.Replace("2","grey")
 #Solution 4
 "$($($StartingString.Substring(0,17)).Replace("grey","blue"))$($($StartingString.Substring(17)).Replace("blue","grey"))"
 
+$StartingString = $StartingString.Replace("grey","1").Replace("blue","2").Replace("1","blue").Replace("2", "grey")
 
 
 

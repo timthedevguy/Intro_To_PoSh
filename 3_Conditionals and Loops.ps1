@@ -487,3 +487,20 @@ $stoppedServices = Get-Service | Where-Object { $_.Status -eq "Stopped" }
 
 (Get-Date).DayOfWeek
 ((Get-Date).DayOfWeek -eq "Wednesday")
+
+
+
+switch((Get-Date).DayOfWeek) {
+    {$_ -in "Monday", "Wednesday", "Friday"} {
+        Write-Host "$(10+10)"
+    }
+    {$_ -in "Tuesday", "Thursday"} {
+        Write-Host "$(20-10)"
+    }
+}
+
+if((Get-Date).DayOfWeek -in ("Monday", "Wednesday", "Friday")) {
+    Write-Host "$(10+10)"
+} elseif((Get-Date).DayOfWeek -in ("Tuesday", "Thursday")) {
+    Write-Host "$(20-10)"
+}
