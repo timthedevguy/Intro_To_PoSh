@@ -40,7 +40,9 @@ Write-Verbose "Test Verbose, Forced" -Verbose
 # ---------------------------------------
 # Surprisingly this stream isn't used as much as Verbose, this stream will ask if you
 # want to stop, continue, halt, etc.
+Write-Host "First line"
 Write-Debug "The value of `$name is now 'Tim'" -Debug
+Write-Host "Next Line"
 
 # --------------------------------------------------------------------------------------------------------------
 # Error Handling
@@ -81,7 +83,7 @@ try{
 } catch {
     Write-Host "I've been caught"
 }
-
+Write-Host "Still running"
 # But wait.......you still saw angry red text, AND you still saw 'I've ran' but you did 
 # NOT see 'I've been caught'.  
 
@@ -97,12 +99,13 @@ try{
 # tells PowerShell to treat this as a terminating error and halt the script, which means
 # we can then catch that error and do something with it.
 
+Write-Host "Gathering files from C:\Tim Davis"
 try{
     Get-ChildItem -Path "C:\Tim Davis" -ErrorAction Stop # <-- Force Terminating Error
     #                               >> ----------------- <<
     Write-Host "I've ran"
 } catch {
-    Write-Host "I've been caught"
+    Write-Host "C:\Tim Davis doesn't exists please try again"
 }
 
 # Now if you run the above code you will NOT see any angry red text and you also only
@@ -118,10 +121,10 @@ $ErrorActionPreference
 # You can set this variable to Stop at the beginning of your script to treat all
 # errors as Terminating.
 
-$ErrorActionPreference = 'Stop'
+$ErrorActionPreference = 'Continue'
 
 try{
-    Get-ChildItem -Path "C:\Tim Davis"
+    Get-ChildItem -Path "C:\Tim Davis" 
     Write-Host "I've ran"
 } catch {
     Write-Host "I've been caught"
@@ -146,7 +149,7 @@ try {
 # Example
 
 try{
-    Get-ChildItem -Path "C:\Tim Davis" -ErrorAction Stop 
+    $test = Get-ChildItem -Path "C:\Windows" -ErrorAction Stop 
     Write-Host "I've ran"
 } catch {
     Write-Host "I've been caught"

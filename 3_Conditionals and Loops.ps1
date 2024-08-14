@@ -420,19 +420,10 @@ $myDate = Get-Date | Select-Object Month, Day, Year
 
 Get-PSDrive | Select-Object Name,Provider
 
-$results = New-Object -TypeName System.Collections.Generic.List[PSObject]
-(1..10) | ForEach-Object {
-    $hash = @{
-        Prop1 = "Tim"
-        Prop2 = "Davis"
-    }
-    $obj = New-Object -TypeName PSCustomObject -Property $hash
-    $results.Add($obj)
-}
+$filename = (Get-ChildItem -Path . -File)[0] | Select-Object Fullname -ExpandProperty Fullname
+Write-Host "[Wrong] Filename is currently $($filename)"
+Write-Host "[Correct] Filename is currently $($filename.Fullname)"
 
-
-$filename = (Get-ChildItem C:\)[0] | Select-Object Fullname
-Write-Host "Filename is currently $($filename.Fullname)"
 
 # --------------------------------------------------------------------------------------------------------------
 # 3.4 Sorting
@@ -447,7 +438,7 @@ $colors | Sort-Object
 # Sorting using a property
 $drives2 = Get-PSDrive | Select-Object Name, Provider | Sort-Object -Property Provider
 
-$drives1 = Get-PSDrive | Select-Object Name -ExpandProperty Name
+$drives1 = Get-PSDrive | Select-Object Name -ExpandProperty Name | Sort-Object 
 
 # --------------------------------------------------------------------------------------------------------------
 # 3.4 Filtering Data
@@ -473,14 +464,14 @@ $colors = "Red", "Blue", "Green", "Yellow", "Black"
 $colors | Where-Object { $_ -like "Bl*" }
 
 # You can filter on individual properties
-Get-Service | Where-Object { $_.Status -eq "Stopped" }
+Get-Service | Where-Object { $_.DisplayName -like "*Windows*" -and $_.Status -eq "Running"} | more
 
 # You can filter on individual propeties and assign the resulting filtered array
 # to a variable for use later
 
 $stoppedServices = Get-Service | Where-Object { $_.Status -eq "Stopped" }
 
-
+#------
 1..100 | ForEach-Object {
     Write-Host "Group-Name-$($_.ToString("000"))"
 }
@@ -488,8 +479,9 @@ $stoppedServices = Get-Service | Where-Object { $_.Status -eq "Stopped" }
 (Get-Date).DayOfWeek
 ((Get-Date).DayOfWeek -eq "Wednesday")
 
+# Page 39, Question 3 Examples
 
-
+# Using Advanced Switch conditions
 switch((Get-Date).DayOfWeek) {
     {$_ -in "Monday", "Wednesday", "Friday"} {
         Write-Host "$(10+10)"
@@ -499,8 +491,42 @@ switch((Get-Date).DayOfWeek) {
     }
 }
 
-if((Get-Date).DayOfWeek -in ("Monday", "Wednesday", "Friday")) {
+
+# Using simple If/ElseIf
+
+if($today -eq "Monday") {
+    # Do SOmething
+    Write-Host "10+10"
+}elseif($today -eq "Wednesday") {
+    # Do Something
+    Write-Host "10+10"
+}elseif($today -eq "Friday") {
+    # Do something
+    Write-Host "10+10"
+}
+
+# Using more complex If with logical opoerators -or
+if(($today -eq "Monday") -or ($today -eq "Wednesday") -or ($today -eq "Friday")) {
+    # Do Something
+    Write-Host "10+10"
+} 
+
+# Advanced If checking array for contents
+if($today -in ("Monday", "Wednesday", "Friday")) {
     Write-Host "$(10+10)"
 } elseif((Get-Date).DayOfWeek -in ("Tuesday", "Thursday")) {
     Write-Host "$(20-10)"
 }
+
+
+$todays = Get-Date
+$yesterday = $today.AddDays(-1)
+$files = Get-ChildItem -Path . -File
+
+$files | ForEach-Object {
+    if($_.LastWriteTime -lt $yesterday) {
+        Write-Host "$($_.Name) was modified before yesterday"
+    }
+}
+
+# Do same thing using Where-Object {}

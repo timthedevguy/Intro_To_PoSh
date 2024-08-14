@@ -52,6 +52,7 @@ begin{
     
 }
 process{
-    Write-Verbose "Working on file: $($Path)"   
+    Write-Verbose "Working on file: $($Path)"
+    Write-Output "Test Output" 
     $Path.SubString(($Path.Length-1)-2,3)
 }
