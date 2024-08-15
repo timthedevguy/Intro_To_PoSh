@@ -10,7 +10,7 @@ break
 # Alot of security requirements to be considered when enabling WinRM, but can be enabled securely, this is outside
 # the scope of this book.
 
-# More difficult in Workgroup environment but is possible
+# More difficult in Workgroup environment but is possible (https://4sysops.com/archives/enable-powershell-remoting-on-a-standalone-workgroup-computer/)
 
 # --------------------------------------------------------------------------------------------------------------
 # 5.1 Remote Management via PSSession

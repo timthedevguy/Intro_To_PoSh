@@ -6,7 +6,7 @@
         Write-Host "The $($_) is the Second Tuesday in the month of $($month.ToString("MMMM"))"
     }
 }
-ps1
+
 Function Get-SecondTuesday {
     param(
         [int]$Month
@@ -14,3 +14,5 @@ Function Get-SecondTuesday {
     $date = Get-Date -Month $Month -Year (Get-Date).Year -Day 1
     return (1..$date.AddMonths(1).AddDays(-1).Day | Where-Object {(Get-Date -Month $date.Month -Year 2024 -Day $_).DayOfWeek -eq "Tuesday"})[1]
 }
+
+(1..31 | Where-Object {(Get-Date -Month 8 -Year 2024 -Day $_).DayOfWeek -eq "Tuesday"})[1]
