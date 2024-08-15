@@ -34,10 +34,10 @@ break
 # Schedule
 # -------------------------------------------------------
 # Monday     - Class Intro, Intro to Posh, Getting Started
-# Tuesday    - Excersises, Conditionals and Loops, Excersises
-# Wednesday  - Excersises, Sorting/Filtering, Error Handling/Streams, Excersises
-# Thursday   - Excersises, Functions, Remoting, Infra Interaction (Active Directory, AzureAD, Local Machine)
-# Friday     - Excersises, Help/Fallout, Pipeline Polution, Parameter Splatting,Debugging in VSCode, Snippets
+# Tuesday    - Exercises, Conditionals and Loops, Exercises
+# Wednesday  - Exercises, Sorting/Filtering, Error Handling/Streams, Exercises
+# Thursday   - Exercises, Functions, Remoting, Infra Interaction (Active Directory, AzureAD, Local Machine)
+# Friday     - Exercises, Help/Fallout, Pipeline Polution, Parameter Splatting,Debugging in VSCode, Snippets
 #              Talk about aliases and no no
 
 
