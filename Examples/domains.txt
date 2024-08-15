@@ -1,0 +1,5 @@
+contoso.com
+marketing.contoso.com
+development.contoso.com
+us.contoso.com
+hr.contoso.com

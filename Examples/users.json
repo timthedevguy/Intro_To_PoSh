@@ -1,0 +1,4869 @@
+[
+    {
+        "FirstName":  "Drona",
+        "SurName":  "Tillman",
+        "Username":  "Drona.Tillman",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Drona.Tillman",
+        "MemberOf":  [
+                         "All Company",
+                         "AllowedToCreateGroups",
+                         "Group for Answers in Viva Engage",
+                         "All Users"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(797) 767-2351",
+        "ProfileSize":  6082560
+    },
+    {
+        "FirstName":  "Marna",
+        "SurName":  "Leitao",
+        "Username":  "Marna.Leitao",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Marna.Leitao",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "LAPS HelpDesk",
+                         "Administrators",
+                         "LAPSWebUI_Admins_AAD",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  16684032
+    },
+    {
+        "FirstName":  "Mureil",
+        "SurName":  "Idou",
+        "Username":  "Mureil.Idou",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Mureil.Idou",
+        "MemberOf":  [
+                         "All Users",
+                         "Group for Answers in Viva Engage",
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(859) 161-3313",
+        "ProfileSize":  19628032
+    },
+    {
+        "FirstName":  "Ailina",
+        "SurName":  "Karyl",
+        "Username":  "Ailina.Karyl",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Ailina.Karyl",
+        "MemberOf":  [
+                         "Administrators",
+                         "Binarymethod",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14642176
+    },
+    {
+        "FirstName":  "Adele",
+        "SurName":  "Thilde",
+        "Username":  "Adele.Thilde",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Adele.Thilde",
+        "MemberOf":  [
+                         "All Company",
+                         "All Users",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPS HelpDesk",
+                         "Group for Answers in Viva Engage",
+                         "O365_Admin_Computers",
+                         "TestDistribution"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(930) 622-5167",
+        "ProfileSize":  18023424
+    },
+    {
+        "FirstName":  "Rois",
+        "SurName":  "Garzon",
+        "Username":  "Rois.Garzon",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Rois.Garzon",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "LAPSWebUI_Admins_AAD",
+                         "Group for Answers in Viva Engage",
+                         "Administrators",
+                         "O365_Admins",
+                         "Binarymethod",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14197760
+    },
+    {
+        "FirstName":  "Maggi",
+        "SurName":  "Guimar",
+        "Username":  "Maggi.Guimar",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Maggi.Guimar",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "All Company",
+                         "O365_Admin_Computers",
+                         "O365_Admins",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(426) 047-6818",
+        "ProfileSize":  21924864
+    },
+    {
+        "FirstName":  "Ediva",
+        "SurName":  "Arianne",
+        "Username":  "Ediva.Arianne",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Ediva.Arianne",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "O365_Admin_Computers",
+                         "Binarymethod",
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(278) 967-5520",
+        "ProfileSize":  8371200
+    },
+    {
+        "FirstName":  "Harmonie",
+        "SurName":  "Rosio",
+        "Username":  "Harmonie.Rosio",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Harmonie.Rosio",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers",
+                         "AllowedToCreateGroups",
+                         "All Users",
+                         "LAPS HelpDesk",
+                         "Administrators"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  15479808
+    },
+    {
+        "FirstName":  "Annemarie",
+        "SurName":  "Schalles",
+        "Username":  "Annemarie.Schalles",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Annemarie.Schalles",
+        "MemberOf":  [
+                         "All Users",
+                         "All Company",
+                         "TestDistribution"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8567808
+    },
+    {
+        "FirstName":  "Breena",
+        "SurName":  "Sorkin",
+        "Username":  "Breena.Sorkin",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Breena.Sorkin",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(222) 886-1434",
+        "ProfileSize":  10058752
+    },
+    {
+        "FirstName":  "Margalo",
+        "SurName":  "Ravi",
+        "Username":  "Margalo.Ravi",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Margalo.Ravi",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD",
+                         "AllowedToCreateGroups",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14972928
+    },
+    {
+        "FirstName":  "Stephana",
+        "SurName":  "Ause",
+        "Username":  "Stephana.Ause",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Stephana.Ause",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPS HelpDesk",
+                         "O365_Admins"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(574) 104-6460",
+        "ProfileSize":  15699968
+    },
+    {
+        "FirstName":  "Dede",
+        "SurName":  "Ratib",
+        "Username":  "Dede.Ratib",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Dede.Ratib",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "All Users",
+                         "Administrators"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(602) 816-3249",
+        "ProfileSize":  5101568
+    },
+    {
+        "FirstName":  "Charis",
+        "SurName":  "Josler",
+        "Username":  "Charis.Josler",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Charis.Josler",
+        "MemberOf":  [
+                         "All Users",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  12492800
+    },
+    {
+        "FirstName":  "Fiann",
+        "SurName":  "Loram",
+        "Username":  "Fiann.Loram",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Fiann.Loram",
+        "MemberOf":  [
+                         "All Users",
+                         "Binarymethod",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(168) 659-3429",
+        "ProfileSize":  9293824
+    },
+    {
+        "FirstName":  "Aeriela",
+        "SurName":  "Gunzburg",
+        "Username":  "Aeriela.Gunzburg",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Aeriela.Gunzburg",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "Binarymethod",
+                         "TestDistribution",
+                         "O365_Admin_Computers",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(735) 720-9859",
+        "ProfileSize":  14726144
+    },
+    {
+        "FirstName":  "Doralin",
+        "SurName":  "Hintze",
+        "Username":  "Doralin.Hintze",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Doralin.Hintze",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "Binarymethod",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Users",
+                         "Administrators",
+                         "All Company"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  9778176
+    },
+    {
+        "FirstName":  "Elset",
+        "SurName":  "Aholla",
+        "Username":  "Elset.Aholla",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Elset.Aholla",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "AllowedToCreateGroups",
+                         "TestDistribution",
+                         "Binarymethod",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  6367232
+    },
+    {
+        "FirstName":  "Tamra",
+        "SurName":  "Keiko",
+        "Username":  "Tamra.Keiko",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Tamra.Keiko",
+        "MemberOf":  "AllowedToCreateGroups",
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  21565440
+    },
+    {
+        "FirstName":  "Sybil",
+        "SurName":  "Braeunig",
+        "Username":  "Sybil.Braeunig",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Sybil.Braeunig",
+        "MemberOf":  "AllowedToCreateGroups",
+        "Domain":  "us.contoso.com",
+        "Phone":  "(479) 998-6849",
+        "ProfileSize":  16718848
+    },
+    {
+        "FirstName":  "Ariana",
+        "SurName":  "Louisette",
+        "Username":  "Ariana.Louisette",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Ariana.Louisette",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Company",
+                         "O365_Admin_Computers",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "TestDistribution"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8188928
+    },
+    {
+        "FirstName":  "Lacee",
+        "SurName":  "Akers",
+        "Username":  "Lacee.Akers",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Lacee.Akers",
+        "MemberOf":  [
+                         "Administrators",
+                         "All Company",
+                         "TestDistribution",
+                         "Binarymethod",
+                         "All Users"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  22943744
+    },
+    {
+        "FirstName":  "Enid",
+        "SurName":  "Murry",
+        "Username":  "Enid.Murry",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Enid.Murry",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "TestDistribution",
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPS HelpDesk",
+                         "All Users"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  2598912
+    },
+    {
+        "FirstName":  "Rodie",
+        "SurName":  "Pinzler",
+        "Username":  "Rodie.Pinzler",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Rodie.Pinzler",
+        "MemberOf":  [
+                         "Administrators",
+                         "LAPS HelpDesk",
+                         "TestDistribution"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(870) 377-4427",
+        "ProfileSize":  13662208
+    },
+    {
+        "FirstName":  "Kessiah",
+        "SurName":  "Rose",
+        "Username":  "Kessiah.Rose",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Kessiah.Rose",
+        "MemberOf":  "AllowedToCreateGroups",
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(537) 237-2666",
+        "ProfileSize":  13187072
+    },
+    {
+        "FirstName":  "Remy",
+        "SurName":  "Alana",
+        "Username":  "Remy.Alana",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Remy.Alana",
+        "MemberOf":  [
+                         "All Company",
+                         "TestDistribution",
+                         "AllowedToCreateGroups",
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(495) 035-8760",
+        "ProfileSize":  4946944
+    },
+    {
+        "FirstName":  "Ellene",
+        "SurName":  "Nedrud",
+        "Username":  "Ellene.Nedrud",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Ellene.Nedrud",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "All Company"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(970) 697-6932",
+        "ProfileSize":  8639488
+    },
+    {
+        "FirstName":  "Adah",
+        "SurName":  "Laban",
+        "Username":  "Adah.Laban",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Adah.Laban",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "TestDistribution",
+                         "Administrators",
+                         "Binarymethod",
+                         "AllowedToCreateGroups",
+                         "All Company"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  9461760
+    },
+    {
+        "FirstName":  "Verine",
+        "SurName":  "Zailer",
+        "Username":  "Verine.Zailer",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Verine.Zailer",
+        "MemberOf":  [
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Users",
+                         "Administrators",
+                         "LAPS HelpDesk",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  10635264
+    },
+    {
+        "FirstName":  "Consolata",
+        "SurName":  "Storz",
+        "Username":  "Consolata.Storz",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Consolata.Storz",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "TestDistribution",
+                         "O365_Admins",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(446) 258-6264",
+        "ProfileSize":  16226304
+    },
+    {
+        "FirstName":  "Delilah",
+        "SurName":  "Junina",
+        "Username":  "Delilah.Junina",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Delilah.Junina",
+        "MemberOf":  [
+                         "All Users",
+                         "Administrators",
+                         "TestDistribution",
+                         "LAPS HelpDesk",
+                         "O365_Admin_Computers",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  4832256
+    },
+    {
+        "FirstName":  "Danyelle",
+        "SurName":  "Yusem",
+        "Username":  "Danyelle.Yusem",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Danyelle.Yusem",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "TestDistribution",
+                         "O365_Admins",
+                         "All Company",
+                         "Binarymethod",
+                         "LAPS HelpDesk",
+                         "Group for Answers in Viva Engage",
+                         "Administrators"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14738432
+    },
+    {
+        "FirstName":  "Alexandrina",
+        "SurName":  "Harper",
+        "Username":  "Alexandrina.Harper",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Alexandrina.Harper",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "O365_Admins",
+                         "LAPS HelpDesk",
+                         "TestDistribution",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  63488
+    },
+    {
+        "FirstName":  "Emiline",
+        "SurName":  "Magnum",
+        "Username":  "Emiline.Magnum",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Emiline.Magnum",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "O365_Admins",
+                         "LAPSWebUI_Admins_AAD",
+                         "All Users",
+                         "All Company",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8978432
+    },
+    {
+        "FirstName":  "Louisa",
+        "SurName":  "Isador",
+        "Username":  "Louisa.Isador",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Louisa.Isador",
+        "MemberOf":  "AllowedToCreateGroups",
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  12549120
+    },
+    {
+        "FirstName":  "Odelle",
+        "SurName":  "Seth",
+        "Username":  "Odelle.Seth",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Odelle.Seth",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWebUI_Admins_AAD",
+                         "TestDistribution"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  13793280
+    },
+    {
+        "FirstName":  "Arlina",
+        "SurName":  "Johannes",
+        "Username":  "Arlina.Johannes",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Arlina.Johannes",
+        "MemberOf":  [
+                         "All Users",
+                         "All Company",
+                         "TestDistribution",
+                         "LAPS HelpDesk",
+                         "Binarymethod",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  7117824
+    },
+    {
+        "FirstName":  "Kimberley",
+        "SurName":  "Soloman",
+        "Username":  "Kimberley.Soloman",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Kimberley.Soloman",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD",
+                         "Binarymethod"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(474) 068-4629",
+        "ProfileSize":  9212928
+    },
+    {
+        "FirstName":  "Sheeree",
+        "SurName":  "Moskow",
+        "Username":  "Sheeree.Moskow",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Sheeree.Moskow",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "O365_Admins",
+                         "Group for Answers in Viva Engage",
+                         "Binarymethod",
+                         "All Users",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(014) 978-7760",
+        "ProfileSize":  11971584
+    },
+    {
+        "FirstName":  "Jayme",
+        "SurName":  "Elysha",
+        "Username":  "Jayme.Elysha",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Jayme.Elysha",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Group for Answers in Viva Engage",
+                         "LAPS HelpDesk",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Users"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(241) 592-1613",
+        "ProfileSize":  3390464
+    },
+    {
+        "FirstName":  "Georgeanne",
+        "SurName":  "Diane",
+        "Username":  "Georgeanne.Diane",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Georgeanne.Diane",
+        "MemberOf":  [
+                         "All Company",
+                         "O365_Admins",
+                         "Group for Answers in Viva Engage",
+                         "O365_Admin_Computers",
+                         "LAPS HelpDesk",
+                         "TestDistribution",
+                         "Administrators"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  22737920
+    },
+    {
+        "FirstName":  "Corrie",
+        "SurName":  "Ninnetta",
+        "Username":  "Corrie.Ninnetta",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Corrie.Ninnetta",
+        "MemberOf":  [
+                         "Administrators",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWebUI_Admins_AAD",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(974) 557-4462",
+        "ProfileSize":  18661376
+    },
+    {
+        "FirstName":  "Lorrayne",
+        "SurName":  "Augustus",
+        "Username":  "Lorrayne.Augustus",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Lorrayne.Augustus",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPSWebUI_Admins_AAD",
+                         "Group for Answers in Viva Engage",
+                         "TestDistribution",
+                         "AllowedToCreateGroups",
+                         "O365_Admins",
+                         "O365_Admin_Computers",
+                         "All Users"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(277) 428-4076",
+        "ProfileSize":  330752
+    },
+    {
+        "FirstName":  "Kirbee",
+        "SurName":  "Burrill",
+        "Username":  "Kirbee.Burrill",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Kirbee.Burrill",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "TestDistribution",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admins"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  5038080
+    },
+    {
+        "FirstName":  "Carrissa",
+        "SurName":  "Jordison",
+        "Username":  "Carrissa.Jordison",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Carrissa.Jordison",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  863232
+    },
+    {
+        "FirstName":  "Genvieve",
+        "SurName":  "Zsa Zsa",
+        "Username":  "Genvieve.Zsa Zsa",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Genvieve.Zsa Zsa",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers",
+                         "Administrators"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(980) 514-7502",
+        "ProfileSize":  17572864
+    },
+    {
+        "FirstName":  "Shaun",
+        "SurName":  "Swihart",
+        "Username":  "Shaun.Swihart",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Shaun.Swihart",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Binarymethod",
+                         "LAPSWebUI_Admins_AAD",
+                         "All Users",
+                         "O365_Admin_Computers",
+                         "All Company"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  18708480
+    },
+    {
+        "FirstName":  "Dolli",
+        "SurName":  "Damon",
+        "Username":  "Dolli.Damon",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Dolli.Damon",
+        "MemberOf":  [
+                         "All Users",
+                         "AllowedToCreateGroups",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  23166976
+    },
+    {
+        "FirstName":  "Gladys",
+        "SurName":  "Jandel",
+        "Username":  "Gladys.Jandel",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Gladys.Jandel",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "TestDistribution",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Binarymethod"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(052) 751-7859",
+        "ProfileSize":  14543872
+    },
+    {
+        "FirstName":  "Kalindi",
+        "SurName":  "Girand",
+        "Username":  "Kalindi.Girand",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Kalindi.Girand",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "All Users",
+                         "O365_Admins",
+                         "O365_Admin_Computers",
+                         "Binarymethod",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  26690560
+    },
+    {
+        "FirstName":  "Wileen",
+        "SurName":  "Berk",
+        "Username":  "Wileen.Berk",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Wileen.Berk",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Administrators",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPSWebUI_Admins_AAD",
+                         "Group for Answers in Viva Engage",
+                         "Binarymethod",
+                         "All Company"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  18227200
+    },
+    {
+        "FirstName":  "Jaquelin",
+        "SurName":  "Alix",
+        "Username":  "Jaquelin.Alix",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Jaquelin.Alix",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "O365_Admins",
+                         "TestDistribution",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Group for Answers in Viva Engage",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(140) 380-6893",
+        "ProfileSize":  15101952
+    },
+    {
+        "FirstName":  "Gratiana",
+        "SurName":  "Carina",
+        "Username":  "Gratiana.Carina",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Gratiana.Carina",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "O365_Admins",
+                         "Administrators",
+                         "Group for Answers in Viva Engage",
+                         "All Company",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  10125312
+    },
+    {
+        "FirstName":  "Arden",
+        "SurName":  "Almeeta",
+        "Username":  "Arden.Almeeta",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Arden.Almeeta",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Group for Answers in Viva Engage",
+                         "LAPS HelpDesk",
+                         "AllowedToCreateGroups",
+                         "TestDistribution"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  2428928
+    },
+    {
+        "FirstName":  "Matti",
+        "SurName":  "Tori",
+        "Username":  "Matti.Tori",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Matti.Tori",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers",
+                         "LAPS HelpDesk",
+                         "Administrators",
+                         "TestDistribution",
+                         "AllowedToCreateGroups",
+                         "All Users"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  22578176
+    },
+    {
+        "FirstName":  "Alvinia",
+        "SurName":  "Waldemar",
+        "Username":  "Alvinia.Waldemar",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Alvinia.Waldemar",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admin_Computers",
+                         "All Company",
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "Binarymethod"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  605184
+    },
+    {
+        "FirstName":  "Helga",
+        "SurName":  "Grissom",
+        "Username":  "Helga.Grissom",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Helga.Grissom",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "Administrators",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(589) 234-4029",
+        "ProfileSize":  2967552
+    },
+    {
+        "FirstName":  "Gerianne",
+        "SurName":  "Collin",
+        "Username":  "Gerianne.Collin",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Gerianne.Collin",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Binarymethod",
+                         "All Users",
+                         "O365_Admins",
+                         "AllowedToCreateGroups",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(164) 276-3820",
+        "ProfileSize":  21148672
+    },
+    {
+        "FirstName":  "Dede",
+        "SurName":  "Marler",
+        "Username":  "Dede.Marler",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Dede.Marler",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Users",
+                         "Group for Answers in Viva Engage",
+                         "Administrators",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(373) 647-7967",
+        "ProfileSize":  121856
+    },
+    {
+        "FirstName":  "Joyan",
+        "SurName":  "Mercie",
+        "Username":  "Joyan.Mercie",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Joyan.Mercie",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  15179776
+    },
+    {
+        "FirstName":  "Gisella",
+        "SurName":  "McRipley",
+        "Username":  "Gisella.McRipley",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Gisella.McRipley",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "LAPS HelpDesk",
+                         "O365_Admins",
+                         "All Company",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  11091968
+    },
+    {
+        "FirstName":  "Lesley",
+        "SurName":  "Widera",
+        "Username":  "Lesley.Widera",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lesley.Widera",
+        "MemberOf":  [
+                         "All Users",
+                         "TestDistribution",
+                         "O365_Admins",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Binarymethod",
+                         "Administrators"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  22574080
+    },
+    {
+        "FirstName":  "Hephzibah",
+        "SurName":  "Scrope",
+        "Username":  "Hephzibah.Scrope",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Hephzibah.Scrope",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "O365_Admins",
+                         "Binarymethod",
+                         "All Users",
+                         "AllowedToCreateGroups",
+                         "TestDistribution",
+                         "All Company"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  3679232
+    },
+    {
+        "FirstName":  "Milena",
+        "SurName":  "Som",
+        "Username":  "Milena.Som",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Milena.Som",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(075) 646-8911",
+        "ProfileSize":  12471296
+    },
+    {
+        "FirstName":  "Kaila",
+        "SurName":  "Mannuela",
+        "Username":  "Kaila.Mannuela",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Kaila.Mannuela",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Company",
+                         "O365_Admins",
+                         "All Users",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  2908160
+    },
+    {
+        "FirstName":  "Ilysa",
+        "SurName":  "Jarrid",
+        "Username":  "Ilysa.Jarrid",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Ilysa.Jarrid",
+        "MemberOf":  [
+                         "All Users",
+                         "All Company",
+                         "AllowedToCreateGroups",
+                         "Group for Answers in Viva Engage",
+                         "O365_Admins"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  11979776
+    },
+    {
+        "FirstName":  "Trisha",
+        "SurName":  "Abram",
+        "Username":  "Trisha.Abram",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Trisha.Abram",
+        "MemberOf":  [
+                         "Administrators",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers",
+                         "O365_Admins",
+                         "TestDistribution"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  23862272
+    },
+    {
+        "FirstName":  "Zorine",
+        "SurName":  "Ardeth",
+        "Username":  "Zorine.Ardeth",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Zorine.Ardeth",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "Binarymethod",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  2706432
+    },
+    {
+        "FirstName":  "Joellyn",
+        "SurName":  "Audwin",
+        "Username":  "Joellyn.Audwin",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Joellyn.Audwin",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPSWebUI_Admins_AAD",
+                         "All Company",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(959) 957-9760",
+        "ProfileSize":  23553024
+    },
+    {
+        "FirstName":  "Mair",
+        "SurName":  "Seigel",
+        "Username":  "Mair.Seigel",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Mair.Seigel",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators",
+                         "AllowedToCreateGroups",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Company"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  18503680
+    },
+    {
+        "FirstName":  "Suki",
+        "SurName":  "Medwin",
+        "Username":  "Suki.Medwin",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Suki.Medwin",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Company"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  21943296
+    },
+    {
+        "FirstName":  "Bunny",
+        "SurName":  "Maighdlin",
+        "Username":  "Bunny.Maighdlin",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Bunny.Maighdlin",
+        "MemberOf":  [
+                         "All Users",
+                         "Administrators",
+                         "AllowedToCreateGroups",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8850432
+    },
+    {
+        "FirstName":  "Luella",
+        "SurName":  "Blanchard",
+        "Username":  "Luella.Blanchard",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Luella.Blanchard",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "O365_Admins",
+                         "O365_Admin_Computers",
+                         "All Company",
+                         "TestDistribution",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  13146112
+    },
+    {
+        "FirstName":  "Janaye",
+        "SurName":  "Jobie",
+        "Username":  "Janaye.Jobie",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Janaye.Jobie",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "AllowedToCreateGroups",
+                         "Binarymethod",
+                         "Administrators",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  18116608
+    },
+    {
+        "FirstName":  "Bellina",
+        "SurName":  "Henebry",
+        "Username":  "Bellina.Henebry",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Bellina.Henebry",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "All Users",
+                         "TestDistribution",
+                         "LAPS HelpDesk",
+                         "Binarymethod",
+                         "O365_Admin_Computers",
+                         "All Company"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8866816
+    },
+    {
+        "FirstName":  "Edy",
+        "SurName":  "Betthel",
+        "Username":  "Edy.Betthel",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Edy.Betthel",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "O365_Admins",
+                         "All Users",
+                         "TestDistribution",
+                         "Group for Answers in Viva Engage",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(520) 723-1298",
+        "ProfileSize":  21051392
+    },
+    {
+        "FirstName":  "Tommi",
+        "SurName":  "Voe",
+        "Username":  "Tommi.Voe",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Tommi.Voe",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  25091072
+    },
+    {
+        "FirstName":  "Melonie",
+        "SurName":  "Roberto",
+        "Username":  "Melonie.Roberto",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Melonie.Roberto",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "Binarymethod",
+                         "TestDistribution",
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  19894272
+    },
+    {
+        "FirstName":  "Angil",
+        "SurName":  "Tannenwald",
+        "Username":  "Angil.Tannenwald",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Angil.Tannenwald",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(528) 155-1656",
+        "ProfileSize":  12859392
+    },
+    {
+        "FirstName":  "Lynea",
+        "SurName":  "Wait",
+        "Username":  "Lynea.Wait",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lynea.Wait",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "Group for Answers in Viva Engage",
+                         "O365_Admin_Computers",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPS HelpDesk",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Administrators",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  19611648
+    },
+    {
+        "FirstName":  "Ginger",
+        "SurName":  "Wheelwright",
+        "Username":  "Ginger.Wheelwright",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Ginger.Wheelwright",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  1479680
+    },
+    {
+        "FirstName":  "Ashley",
+        "SurName":  "Baram",
+        "Username":  "Ashley.Baram",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Ashley.Baram",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Users",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(483) 934-9970",
+        "ProfileSize":  2587648
+    },
+    {
+        "FirstName":  "Lona",
+        "SurName":  "Anson",
+        "Username":  "Lona.Anson",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lona.Anson",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "TestDistribution",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admin_Computers",
+                         "O365_Admins",
+                         "All Company"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(575) 509-0044",
+        "ProfileSize":  19449856
+    },
+    {
+        "FirstName":  "Ruthi",
+        "SurName":  "Bethany",
+        "Username":  "Ruthi.Bethany",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Ruthi.Bethany",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "O365_Admin_Computers",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(062) 273-8331",
+        "ProfileSize":  24689664
+    },
+    {
+        "FirstName":  "Roanne",
+        "SurName":  "Skeie",
+        "Username":  "Roanne.Skeie",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Roanne.Skeie",
+        "MemberOf":  [
+                         "All Users",
+                         "AllowedToCreateGroups",
+                         "TestDistribution"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  18626560
+    },
+    {
+        "FirstName":  "Gilligan",
+        "SurName":  "Melamed",
+        "Username":  "Gilligan.Melamed",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Gilligan.Melamed",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Users",
+                         "Binarymethod"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  15853568
+    },
+    {
+        "FirstName":  "Amil",
+        "SurName":  "Wearing",
+        "Username":  "Amil.Wearing",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Amil.Wearing",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "AllowedToCreateGroups",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "TestDistribution",
+                         "O365_Admin_Computers",
+                         "Group for Answers in Viva Engage",
+                         "Administrators"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  21897216
+    },
+    {
+        "FirstName":  "Sosanna",
+        "SurName":  "Hillell",
+        "Username":  "Sosanna.Hillell",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Sosanna.Hillell",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(632) 856-6745",
+        "ProfileSize":  15473664
+    },
+    {
+        "FirstName":  "Aubrette",
+        "SurName":  "Ermine",
+        "Username":  "Aubrette.Ermine",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Aubrette.Ermine",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Administrators",
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPS HelpDesk",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Binarymethod"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  6355968
+    },
+    {
+        "FirstName":  "Joella",
+        "SurName":  "Ragland",
+        "Username":  "Joella.Ragland",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Joella.Ragland",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "LAPSWebUI_Admins_AAD",
+                         "Group for Answers in Viva Engage",
+                         "LAPS HelpDesk",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Company"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(636) 100-6915",
+        "ProfileSize":  9907200
+    },
+    {
+        "FirstName":  "Theo",
+        "SurName":  "Halli",
+        "Username":  "Theo.Halli",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Theo.Halli",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "Binarymethod",
+                         "All Users",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  21361664
+    },
+    {
+        "FirstName":  "Silvana",
+        "SurName":  "Brianne",
+        "Username":  "Silvana.Brianne",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Silvana.Brianne",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "TestDistribution"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  23229440
+    },
+    {
+        "FirstName":  "Daria",
+        "SurName":  "Ryley",
+        "Username":  "Daria.Ryley",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Daria.Ryley",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "LAPS HelpDesk",
+                         "TestDistribution",
+                         "All Company",
+                         "Administrators"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(203) 688-4732",
+        "ProfileSize":  13075456
+    },
+    {
+        "FirstName":  "Jacquetta",
+        "SurName":  "Wadell",
+        "Username":  "Jacquetta.Wadell",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Jacquetta.Wadell",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "Administrators",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(424) 091-0435",
+        "ProfileSize":  20760576
+    },
+    {
+        "FirstName":  "Maryjane",
+        "SurName":  "Bradley",
+        "Username":  "Maryjane.Bradley",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Maryjane.Bradley",
+        "MemberOf":  [
+                         "Administrators",
+                         "O365_Admins",
+                         "Binarymethod",
+                         "All Users",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14440448
+    },
+    {
+        "FirstName":  "Lucky",
+        "SurName":  "Colver",
+        "Username":  "Lucky.Colver",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Lucky.Colver",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "TestDistribution",
+                         "All Company"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(295) 447-8353",
+        "ProfileSize":  10703872
+    },
+    {
+        "FirstName":  "Jacenta",
+        "SurName":  "Baron",
+        "Username":  "Jacenta.Baron",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Jacenta.Baron",
+        "MemberOf":  [
+                         "All Company",
+                         "Group for Answers in Viva Engage",
+                         "All Users",
+                         "O365_Admin_Computers",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admins",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  23159808
+    },
+    {
+        "FirstName":  "Maressa",
+        "SurName":  "Izy",
+        "Username":  "Maressa.Izy",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Maressa.Izy",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "O365_Admins"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(309) 392-6890",
+        "ProfileSize":  4854784
+    },
+    {
+        "FirstName":  "Lynna",
+        "SurName":  "Colver",
+        "Username":  "Lynna.Colver",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Lynna.Colver",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "All Company",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  15946752
+    },
+    {
+        "FirstName":  "Claudelle",
+        "SurName":  "Benedic",
+        "Username":  "Claudelle.Benedic",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Claudelle.Benedic",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers",
+                         "LAPSWebUI_Admins_AAD",
+                         "All Company",
+                         "O365_Admins",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  21314560
+    },
+    {
+        "FirstName":  "Ramona",
+        "SurName":  "Hansel",
+        "Username":  "Ramona.Hansel",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Ramona.Hansel",
+        "MemberOf":  "Binarymethod",
+        "Domain":  "contoso.com",
+        "Phone":  "(750) 683-4018",
+        "ProfileSize":  2282496
+    },
+    {
+        "FirstName":  "Lise",
+        "SurName":  "Swanhilda",
+        "Username":  "Lise.Swanhilda",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lise.Swanhilda",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "Administrators",
+                         "O365_Admin_Computers",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPS HelpDesk",
+                         "All Users"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  21065728
+    },
+    {
+        "FirstName":  "Georgina",
+        "SurName":  "Lucien",
+        "Username":  "Georgina.Lucien",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Georgina.Lucien",
+        "MemberOf":  [
+                         "All Company",
+                         "O365_Admins",
+                         "TestDistribution"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  17409024
+    },
+    {
+        "FirstName":  "Fancy",
+        "SurName":  "Aggappora",
+        "Username":  "Fancy.Aggappora",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Fancy.Aggappora",
+        "MemberOf":  [
+                         "All Company",
+                         "O365_Admin_Computers",
+                         "Administrators",
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admins",
+                         "LAPS HelpDesk",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(070) 180-3702",
+        "ProfileSize":  6901760
+    },
+    {
+        "FirstName":  "Claudette",
+        "SurName":  "Teri",
+        "Username":  "Claudette.Teri",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Claudette.Teri",
+        "MemberOf":  "All Company",
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  5339136
+    },
+    {
+        "FirstName":  "Willette",
+        "SurName":  "Mou",
+        "Username":  "Willette.Mou",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Willette.Mou",
+        "MemberOf":  [
+                         "All Users",
+                         "Binarymethod",
+                         "TestDistribution",
+                         "O365_Admin_Computers",
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(634) 776-7605",
+        "ProfileSize":  22605824
+    },
+    {
+        "FirstName":  "Lyndell",
+        "SurName":  "Rogerson",
+        "Username":  "Lyndell.Rogerson",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lyndell.Rogerson",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  24960000
+    },
+    {
+        "FirstName":  "Abigale",
+        "SurName":  "Partan",
+        "Username":  "Abigale.Partan",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Abigale.Partan",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "Binarymethod",
+                         "O365_Admin_Computers",
+                         "LAPS HelpDesk",
+                         "LAPSWebUI_Admins_AAD",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  11602944
+    },
+    {
+        "FirstName":  "Devin",
+        "SurName":  "Moran",
+        "Username":  "Devin.Moran",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Devin.Moran",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "O365_Admin_Computers",
+                         "All Users",
+                         "AllowedToCreateGroups",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Company",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(536) 782-1255",
+        "ProfileSize":  4551680
+    },
+    {
+        "FirstName":  "Wilma",
+        "SurName":  "Friede",
+        "Username":  "Wilma.Friede",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Wilma.Friede",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers",
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  6465536
+    },
+    {
+        "FirstName":  "Andree",
+        "SurName":  "Cung",
+        "Username":  "Andree.Cung",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Andree.Cung",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "LAPS HelpDesk",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(113) 258-3426",
+        "ProfileSize":  4851712
+    },
+    {
+        "FirstName":  "Drucy",
+        "SurName":  "Falzetta",
+        "Username":  "Drucy.Falzetta",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Drucy.Falzetta",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(240) 971-8909",
+        "ProfileSize":  11532288
+    },
+    {
+        "FirstName":  "Celeste",
+        "SurName":  "Wills",
+        "Username":  "Celeste.Wills",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Celeste.Wills",
+        "MemberOf":  [
+                         "Administrators",
+                         "All Company",
+                         "Binarymethod",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(215) 996-3499",
+        "ProfileSize":  13410304
+    },
+    {
+        "FirstName":  "Arlee",
+        "SurName":  "Shivers",
+        "Username":  "Arlee.Shivers",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Arlee.Shivers",
+        "MemberOf":  [
+                         "All Company",
+                         "AllowedToCreateGroups",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPS HelpDesk",
+                         "O365_Admins"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(124) 418-7395",
+        "ProfileSize":  9594880
+    },
+    {
+        "FirstName":  "Carol-Jean",
+        "SurName":  "Cohlier",
+        "Username":  "Carol-Jean.Cohlier",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Carol-Jean.Cohlier",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "O365_Admins",
+                         "Binarymethod",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  7473152
+    },
+    {
+        "FirstName":  "Rasla",
+        "SurName":  "Schwing",
+        "Username":  "Rasla.Schwing",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Rasla.Schwing",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  13474816
+    },
+    {
+        "FirstName":  "Gerty",
+        "SurName":  "Wilt",
+        "Username":  "Gerty.Wilt",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Gerty.Wilt",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(883) 662-9265",
+        "ProfileSize":  15293440
+    },
+    {
+        "FirstName":  "Beret",
+        "SurName":  "Romelda",
+        "Username":  "Beret.Romelda",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Beret.Romelda",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "O365_Admins",
+                         "TestDistribution",
+                         "Binarymethod",
+                         "All Users",
+                         "Administrators",
+                         "All Company"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  19026944
+    },
+    {
+        "FirstName":  "Gates",
+        "SurName":  "Stephanie",
+        "Username":  "Gates.Stephanie",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Gates.Stephanie",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "AllowedToCreateGroups",
+                         "TestDistribution",
+                         "LAPS HelpDesk",
+                         "Administrators",
+                         "Binarymethod",
+                         "O365_Admins"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(687) 562-0034",
+        "ProfileSize":  10377216
+    },
+    {
+        "FirstName":  "Nicole",
+        "SurName":  "Haig",
+        "Username":  "Nicole.Haig",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Nicole.Haig",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "O365_Admins",
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(501) 164-0884",
+        "ProfileSize":  9178112
+    },
+    {
+        "FirstName":  "Benny",
+        "SurName":  "Aslam",
+        "Username":  "Benny.Aslam",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Benny.Aslam",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPS HelpDesk",
+                         "All Users",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  378880
+    },
+    {
+        "FirstName":  "Haleigh",
+        "SurName":  "Bartolomeo",
+        "Username":  "Haleigh.Bartolomeo",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Haleigh.Bartolomeo",
+        "MemberOf":  "O365_Admin_Computers",
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  4881408
+    },
+    {
+        "FirstName":  "Dani",
+        "SurName":  "Donavon",
+        "Username":  "Dani.Donavon",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Dani.Donavon",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Users",
+                         "O365_Admin_Computers",
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators",
+                         "Binarymethod"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(015) 674-4896",
+        "ProfileSize":  9844736
+    },
+    {
+        "FirstName":  "Orelie",
+        "SurName":  "Loggins",
+        "Username":  "Orelie.Loggins",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Orelie.Loggins",
+        "MemberOf":  "AllowedToCreateGroups",
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  13263872
+    },
+    {
+        "FirstName":  "Zorine",
+        "SurName":  "Astrid",
+        "Username":  "Zorine.Astrid",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Zorine.Astrid",
+        "MemberOf":  [
+                         "Administrators",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(550) 962-5858",
+        "ProfileSize":  14026752
+    },
+    {
+        "FirstName":  "Raina",
+        "SurName":  "Balduin",
+        "Username":  "Raina.Balduin",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Raina.Balduin",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "TestDistribution",
+                         "Administrators",
+                         "All Users",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  5526528
+    },
+    {
+        "FirstName":  "Aleda",
+        "SurName":  "Zwart",
+        "Username":  "Aleda.Zwart",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Aleda.Zwart",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "TestDistribution",
+                         "LAPS HelpDesk",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(326) 324-1507",
+        "ProfileSize":  19632128
+    },
+    {
+        "FirstName":  "Melisent",
+        "SurName":  "Marou",
+        "Username":  "Melisent.Marou",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Melisent.Marou",
+        "MemberOf":  [
+                         "Administrators",
+                         "TestDistribution",
+                         "All Users"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(974) 183-9784",
+        "ProfileSize":  12668928
+    },
+    {
+        "FirstName":  "Alvera",
+        "SurName":  "Riva",
+        "Username":  "Alvera.Riva",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Alvera.Riva",
+        "MemberOf":  "LAPSWEBUI_TECHS_AAD",
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(170) 673-1725",
+        "ProfileSize":  3496960
+    },
+    {
+        "FirstName":  "Leia",
+        "SurName":  "Berkin",
+        "Username":  "Leia.Berkin",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Leia.Berkin",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPS HelpDesk",
+                         "All Users"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(472) 812-6365",
+        "ProfileSize":  23450624
+    },
+    {
+        "FirstName":  "Romona",
+        "SurName":  "Madora",
+        "Username":  "Romona.Madora",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Romona.Madora",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "Binarymethod",
+                         "LAPS HelpDesk",
+                         "Group for Answers in Viva Engage",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admins",
+                         "LAPSWebUI_Admins_AAD",
+                         "TestDistribution"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(106) 960-8507",
+        "ProfileSize":  4110336
+    },
+    {
+        "FirstName":  "Kirstin",
+        "SurName":  "Sharon",
+        "Username":  "Kirstin.Sharon",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Kirstin.Sharon",
+        "MemberOf":  "TestDistribution",
+        "Domain":  "development.contoso.com",
+        "Phone":  "(516) 657-9117",
+        "ProfileSize":  10863616
+    },
+    {
+        "FirstName":  "Natasha",
+        "SurName":  "Fanechka",
+        "Username":  "Natasha.Fanechka",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Natasha.Fanechka",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "O365_Admins",
+                         "Group for Answers in Viva Engage",
+                         "TestDistribution",
+                         "LAPSWebUI_Admins_AAD",
+                         "Binarymethod",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(954) 923-7272",
+        "ProfileSize":  15747072
+    },
+    {
+        "FirstName":  "Megen",
+        "SurName":  "Amelina",
+        "Username":  "Megen.Amelina",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Megen.Amelina",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "TestDistribution",
+                         "Administrators",
+                         "Binarymethod",
+                         "Group for Answers in Viva Engage",
+                         "All Company"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  879616
+    },
+    {
+        "FirstName":  "Gaby",
+        "SurName":  "Anselmo",
+        "Username":  "Gaby.Anselmo",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Gaby.Anselmo",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  946176
+    },
+    {
+        "FirstName":  "Corie",
+        "SurName":  "Luzader",
+        "Username":  "Corie.Luzader",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Corie.Luzader",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  21459968
+    },
+    {
+        "FirstName":  "Britni",
+        "SurName":  "Pirbhai",
+        "Username":  "Britni.Pirbhai",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Britni.Pirbhai",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "All Company"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  13195264
+    },
+    {
+        "FirstName":  "Stevana",
+        "SurName":  "Hansen",
+        "Username":  "Stevana.Hansen",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Stevana.Hansen",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  13987840
+    },
+    {
+        "FirstName":  "Vonny",
+        "SurName":  "Rothenberg",
+        "Username":  "Vonny.Rothenberg",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Vonny.Rothenberg",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "Administrators"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  19951616
+    },
+    {
+        "FirstName":  "Lebbie",
+        "SurName":  "Ferullo",
+        "Username":  "Lebbie.Ferullo",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Lebbie.Ferullo",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPSWebUI_Admins_AAD",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  13901824
+    },
+    {
+        "FirstName":  "Beatrix",
+        "SurName":  "Dittman",
+        "Username":  "Beatrix.Dittman",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Beatrix.Dittman",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "O365_Admin_Computers",
+                         "Administrators",
+                         "O365_Admins"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(196) 352-5151",
+        "ProfileSize":  8376320
+    },
+    {
+        "FirstName":  "Lynn",
+        "SurName":  "Karon",
+        "Username":  "Lynn.Karon",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lynn.Karon",
+        "MemberOf":  [
+                         "Administrators",
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admins",
+                         "All Company",
+                         "TestDistribution",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(846) 122-7506",
+        "ProfileSize":  9925632
+    },
+    {
+        "FirstName":  "Wendy",
+        "SurName":  "Verdi",
+        "Username":  "Wendy.Verdi",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Wendy.Verdi",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "Binarymethod",
+                         "Group for Answers in Viva Engage",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Users",
+                         "LAPS HelpDesk",
+                         "TestDistribution"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(549) 393-4025",
+        "ProfileSize":  11064320
+    },
+    {
+        "FirstName":  "Dari",
+        "SurName":  "Khalin",
+        "Username":  "Dari.Khalin",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Dari.Khalin",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPS HelpDesk",
+                         "All Company",
+                         "TestDistribution"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(137) 691-3943",
+        "ProfileSize":  11893760
+    },
+    {
+        "FirstName":  "Vevay",
+        "SurName":  "Shumway",
+        "Username":  "Vevay.Shumway",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Vevay.Shumway",
+        "MemberOf":  "LAPSWEBUI_TECHS_AAD",
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  19209216
+    },
+    {
+        "FirstName":  "Anna-Maria",
+        "SurName":  "Beauvais",
+        "Username":  "Anna-Maria.Beauvais",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Anna-Maria.Beauvais",
+        "MemberOf":  "All Company",
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  24382464
+    },
+    {
+        "FirstName":  "Felipa",
+        "SurName":  "Koral",
+        "Username":  "Felipa.Koral",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Felipa.Koral",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Users",
+                         "Group for Answers in Viva Engage",
+                         "TestDistribution",
+                         "O365_Admins",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  10890240
+    },
+    {
+        "FirstName":  "Cloe",
+        "SurName":  "Loomis",
+        "Username":  "Cloe.Loomis",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Cloe.Loomis",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(505) 394-7952",
+        "ProfileSize":  10156032
+    },
+    {
+        "FirstName":  "Augustina",
+        "SurName":  "Jyoti",
+        "Username":  "Augustina.Jyoti",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Augustina.Jyoti",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers",
+                         "TestDistribution",
+                         "All Company"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  7865344
+    },
+    {
+        "FirstName":  "Karena",
+        "SurName":  "Gamali",
+        "Username":  "Karena.Gamali",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Karena.Gamali",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "O365_Admin_Computers",
+                         "All Company",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Binarymethod",
+                         "All Users",
+                         "TestDistribution",
+                         "O365_Admins"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(073) 357-4401",
+        "ProfileSize":  10551296
+    },
+    {
+        "FirstName":  "Helyn",
+        "SurName":  "Valma",
+        "Username":  "Helyn.Valma",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Helyn.Valma",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(799) 084-7773",
+        "ProfileSize":  19330048
+    },
+    {
+        "FirstName":  "Ekaterina",
+        "SurName":  "Sissel",
+        "Username":  "Ekaterina.Sissel",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Ekaterina.Sissel",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Administrators",
+                         "AllowedToCreateGroups",
+                         "Binarymethod",
+                         "O365_Admins",
+                         "TestDistribution",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(562) 785-4573",
+        "ProfileSize":  7576576
+    },
+    {
+        "FirstName":  "Alissa",
+        "SurName":  "Rigdon",
+        "Username":  "Alissa.Rigdon",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Alissa.Rigdon",
+        "MemberOf":  [
+                         "Administrators",
+                         "AllowedToCreateGroups",
+                         "Group for Answers in Viva Engage",
+                         "All Users",
+                         "O365_Admin_Computers",
+                         "All Company"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  22129664
+    },
+    {
+        "FirstName":  "Eloise",
+        "SurName":  "Christianson",
+        "Username":  "Eloise.Christianson",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Eloise.Christianson",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPS HelpDesk",
+                         "O365_Admin_Computers",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(671) 118-1757",
+        "ProfileSize":  10698752
+    },
+    {
+        "FirstName":  "Mead",
+        "SurName":  "Trill",
+        "Username":  "Mead.Trill",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Mead.Trill",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admins",
+                         "Group for Answers in Viva Engage",
+                         "AllowedToCreateGroups",
+                         "All Users",
+                         "LAPS HelpDesk",
+                         "All Company",
+                         "Binarymethod"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(502) 379-7841",
+        "ProfileSize":  24067072
+    },
+    {
+        "FirstName":  "Bonnie",
+        "SurName":  "Corbet",
+        "Username":  "Bonnie.Corbet",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Bonnie.Corbet",
+        "MemberOf":  [
+                         "All Users",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Company",
+                         "AllowedToCreateGroups",
+                         "Administrators"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(313) 320-1050",
+        "ProfileSize":  22644736
+    },
+    {
+        "FirstName":  "Hilda",
+        "SurName":  "Morell",
+        "Username":  "Hilda.Morell",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Hilda.Morell",
+        "MemberOf":  "All Users",
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14608384
+    },
+    {
+        "FirstName":  "Cairistiona",
+        "SurName":  "Weinreb",
+        "Username":  "Cairistiona.Weinreb",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Cairistiona.Weinreb",
+        "MemberOf":  [
+                         "All Users",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Administrators"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  23037952
+    },
+    {
+        "FirstName":  "Evey",
+        "SurName":  "Audie",
+        "Username":  "Evey.Audie",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Evey.Audie",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "O365_Admins",
+                         "LAPS HelpDesk",
+                         "O365_Admin_Computers",
+                         "Group for Answers in Viva Engage",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Users",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(889) 744-9013",
+        "ProfileSize":  13137920
+    },
+    {
+        "FirstName":  "Odilia",
+        "SurName":  "Bowden",
+        "Username":  "Odilia.Bowden",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Odilia.Bowden",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators",
+                         "Group for Answers in Viva Engage",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  13851648
+    },
+    {
+        "FirstName":  "Dolores",
+        "SurName":  "Feriga",
+        "Username":  "Dolores.Feriga",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Dolores.Feriga",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "All Company",
+                         "AllowedToCreateGroups",
+                         "All Users",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  3465216
+    },
+    {
+        "FirstName":  "Marybelle",
+        "SurName":  "Livingston",
+        "Username":  "Marybelle.Livingston",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Marybelle.Livingston",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "All Users",
+                         "LAPSWebUI_Admins_AAD",
+                         "Binarymethod",
+                         "TestDistribution"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  11433984
+    },
+    {
+        "FirstName":  "Tasha",
+        "SurName":  "Vic",
+        "Username":  "Tasha.Vic",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Tasha.Vic",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admins",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(030) 405-8013",
+        "ProfileSize":  6493184
+    },
+    {
+        "FirstName":  "Joceline",
+        "SurName":  "Claretta",
+        "Username":  "Joceline.Claretta",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Joceline.Claretta",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "Group for Answers in Viva Engage",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(221) 060-0485",
+        "ProfileSize":  7952384
+    },
+    {
+        "FirstName":  "Callida",
+        "SurName":  "Wren",
+        "Username":  "Callida.Wren",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Callida.Wren",
+        "MemberOf":  "All Users",
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  2211840
+    },
+    {
+        "FirstName":  "Fianna",
+        "SurName":  "Tibbs",
+        "Username":  "Fianna.Tibbs",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Fianna.Tibbs",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Binarymethod",
+                         "LAPS HelpDesk",
+                         "All Users",
+                         "Administrators",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  2725888
+    },
+    {
+        "FirstName":  "Lenette",
+        "SurName":  "Dickerson",
+        "Username":  "Lenette.Dickerson",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lenette.Dickerson",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Binarymethod",
+                         "TestDistribution",
+                         "All Users"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(508) 888-6892",
+        "ProfileSize":  4306944
+    },
+    {
+        "FirstName":  "Jacinta",
+        "SurName":  "Gorey",
+        "Username":  "Jacinta.Gorey",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Jacinta.Gorey",
+        "MemberOf":  [
+                         "All Company",
+                         "O365_Admin_Computers",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(094) 850-5892",
+        "ProfileSize":  25614336
+    },
+    {
+        "FirstName":  "Roseanne",
+        "SurName":  "Abran",
+        "Username":  "Roseanne.Abran",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Roseanne.Abran",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "AllowedToCreateGroups",
+                         "All Company",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(372) 702-4616",
+        "ProfileSize":  22343680
+    },
+    {
+        "FirstName":  "Briny",
+        "SurName":  "Gustav",
+        "Username":  "Briny.Gustav",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Briny.Gustav",
+        "MemberOf":  [
+                         "All Users",
+                         "O365_Admins",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(374) 554-4672",
+        "ProfileSize":  25354240
+    },
+    {
+        "FirstName":  "Cissy",
+        "SurName":  "Grantley",
+        "Username":  "Cissy.Grantley",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Cissy.Grantley",
+        "MemberOf":  [
+                         "Administrators",
+                         "O365_Admin_Computers",
+                         "LAPSWebUI_Admins_AAD",
+                         "Binarymethod",
+                         "O365_Admins"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  4573184
+    },
+    {
+        "FirstName":  "Bobbee",
+        "SurName":  "Aramenta",
+        "Username":  "Bobbee.Aramenta",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Bobbee.Aramenta",
+        "MemberOf":  [
+                         "Administrators",
+                         "Binarymethod",
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers",
+                         "All Company"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  23557120
+    },
+    {
+        "FirstName":  "Honey",
+        "SurName":  "Henriette",
+        "Username":  "Honey.Henriette",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Honey.Henriette",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admins",
+                         "Binarymethod",
+                         "Administrators"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  4810752
+    },
+    {
+        "FirstName":  "Jessamine",
+        "SurName":  "Mickelson",
+        "Username":  "Jessamine.Mickelson",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Jessamine.Mickelson",
+        "MemberOf":  [
+                         "Administrators",
+                         "All Users",
+                         "Binarymethod"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(569) 682-0642",
+        "ProfileSize":  22763520
+    },
+    {
+        "FirstName":  "Danika",
+        "SurName":  "Belinda",
+        "Username":  "Danika.Belinda",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Danika.Belinda",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators",
+                         "TestDistribution",
+                         "All Users",
+                         "O365_Admin_Computers",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(489) 627-9203",
+        "ProfileSize":  7084032
+    },
+    {
+        "FirstName":  "Arabel",
+        "SurName":  "Finnie",
+        "Username":  "Arabel.Finnie",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Arabel.Finnie",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admins",
+                         "All Company",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(231) 290-3333",
+        "ProfileSize":  4233216
+    },
+    {
+        "FirstName":  "Kessia",
+        "SurName":  "Taima",
+        "Username":  "Kessia.Taima",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Kessia.Taima",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Binarymethod",
+                         "All Users",
+                         "AllowedToCreateGroups",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  4389888
+    },
+    {
+        "FirstName":  "Alanah",
+        "SurName":  "Marris",
+        "Username":  "Alanah.Marris",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Alanah.Marris",
+        "MemberOf":  [
+                         "Administrators",
+                         "LAPS HelpDesk",
+                         "AllowedToCreateGroups",
+                         "Binarymethod",
+                         "TestDistribution"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  15788032
+    },
+    {
+        "FirstName":  "Aviva",
+        "SurName":  "Canada",
+        "Username":  "Aviva.Canada",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Aviva.Canada",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Administrators",
+                         "LAPS HelpDesk",
+                         "O365_Admins"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  24986624
+    },
+    {
+        "FirstName":  "Elly",
+        "SurName":  "Alcina",
+        "Username":  "Elly.Alcina",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Elly.Alcina",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPS HelpDesk",
+                         "Administrators",
+                         "TestDistribution",
+                         "Binarymethod",
+                         "O365_Admin_Computers",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(293) 111-4160",
+        "ProfileSize":  19141632
+    },
+    {
+        "FirstName":  "Jacquenetta",
+        "SurName":  "Adabelle",
+        "Username":  "Jacquenetta.Adabelle",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Jacquenetta.Adabelle",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "Binarymethod",
+                         "All Users"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(448) 051-5763",
+        "ProfileSize":  24899584
+    },
+    {
+        "FirstName":  "Tracee",
+        "SurName":  "Trauner",
+        "Username":  "Tracee.Trauner",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Tracee.Trauner",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  23085056
+    },
+    {
+        "FirstName":  "Lorry",
+        "SurName":  "Swihart",
+        "Username":  "Lorry.Swihart",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Lorry.Swihart",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWebUI_Admins_AAD",
+                         "Binarymethod"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(606) 773-8748",
+        "ProfileSize":  26716160
+    },
+    {
+        "FirstName":  "Crin",
+        "SurName":  "Eulalee",
+        "Username":  "Crin.Eulalee",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Crin.Eulalee",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(998) 482-9083",
+        "ProfileSize":  20191232
+    },
+    {
+        "FirstName":  "Arliene",
+        "SurName":  "Leach",
+        "Username":  "Arliene.Leach",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Arliene.Leach",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(318) 721-1559",
+        "ProfileSize":  21635072
+    },
+    {
+        "FirstName":  "Agretha",
+        "SurName":  "Acacia",
+        "Username":  "Agretha.Acacia",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Agretha.Acacia",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPS HelpDesk",
+                         "Administrators",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "TestDistribution",
+                         "All Users"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(064) 660-2941",
+        "ProfileSize":  889856
+    },
+    {
+        "FirstName":  "Andromache",
+        "SurName":  "Klemperer",
+        "Username":  "Andromache.Klemperer",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Andromache.Klemperer",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "O365_Admin_Computers",
+                         "TestDistribution",
+                         "LAPSWebUI_Admins_AAD",
+                         "All Users"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(392) 689-2830",
+        "ProfileSize":  13978624
+    },
+    {
+        "FirstName":  "Ilise",
+        "SurName":  "Nagle",
+        "Username":  "Ilise.Nagle",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Ilise.Nagle",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "O365_Admin_Computers",
+                         "Administrators",
+                         "All Users",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(919) 754-9819",
+        "ProfileSize":  12672000
+    },
+    {
+        "FirstName":  "Jojo",
+        "SurName":  "Audres",
+        "Username":  "Jojo.Audres",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Jojo.Audres",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "O365_Admins"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(265) 480-7728",
+        "ProfileSize":  20411392
+    },
+    {
+        "FirstName":  "Corrinne",
+        "SurName":  "Celina",
+        "Username":  "Corrinne.Celina",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Corrinne.Celina",
+        "MemberOf":  "All Company",
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  18615296
+    },
+    {
+        "FirstName":  "Aretha",
+        "SurName":  "Dachy",
+        "Username":  "Aretha.Dachy",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Aretha.Dachy",
+        "MemberOf":  [
+                         "Administrators",
+                         "TestDistribution",
+                         "All Company",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  10484736
+    },
+    {
+        "FirstName":  "Darya",
+        "SurName":  "Zoes",
+        "Username":  "Darya.Zoes",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Darya.Zoes",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "LAPS HelpDesk",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "TestDistribution"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14689280
+    },
+    {
+        "FirstName":  "Marrissa",
+        "SurName":  "Quintin",
+        "Username":  "Marrissa.Quintin",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Marrissa.Quintin",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Company",
+                         "All Users",
+                         "Group for Answers in Viva Engage",
+                         "AllowedToCreateGroups",
+                         "LAPS HelpDesk",
+                         "TestDistribution"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  25543680
+    },
+    {
+        "FirstName":  "Eleni",
+        "SurName":  "Meingolda",
+        "Username":  "Eleni.Meingolda",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Eleni.Meingolda",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "All Users",
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14638080
+    },
+    {
+        "FirstName":  "Basia",
+        "SurName":  "Ridinger",
+        "Username":  "Basia.Ridinger",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Basia.Ridinger",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Users",
+                         "Administrators",
+                         "O365_Admin_Computers",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  6391808
+    },
+    {
+        "FirstName":  "Ilka",
+        "SurName":  "Keg",
+        "Username":  "Ilka.Keg",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Ilka.Keg",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(505) 314-4797",
+        "ProfileSize":  8828928
+    },
+    {
+        "FirstName":  "Crissy",
+        "SurName":  "Eward",
+        "Username":  "Crissy.Eward",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Crissy.Eward",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "Administrators",
+                         "AllowedToCreateGroups",
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(160) 885-5618",
+        "ProfileSize":  12730368
+    },
+    {
+        "FirstName":  "Etta",
+        "SurName":  "Estele",
+        "Username":  "Etta.Estele",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Etta.Estele",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "All Company",
+                         "Group for Answers in Viva Engage",
+                         "Binarymethod",
+                         "All Users"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(384) 185-2907",
+        "ProfileSize":  2855936
+    },
+    {
+        "FirstName":  "Livvy",
+        "SurName":  "Nolitta",
+        "Username":  "Livvy.Nolitta",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Livvy.Nolitta",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators",
+                         "All Users",
+                         "Group for Answers in Viva Engage",
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  20244480
+    },
+    {
+        "FirstName":  "Kayley",
+        "SurName":  "Aramen",
+        "Username":  "Kayley.Aramen",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Kayley.Aramen",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  560128
+    },
+    {
+        "FirstName":  "Alma",
+        "SurName":  "Luing",
+        "Username":  "Alma.Luing",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Alma.Luing",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "Binarymethod",
+                         "O365_Admins"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(318) 326-1624",
+        "ProfileSize":  671744
+    },
+    {
+        "FirstName":  "Ingrid",
+        "SurName":  "Lai",
+        "Username":  "Ingrid.Lai",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Ingrid.Lai",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers",
+                         "TestDistribution",
+                         "O365_Admins",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(631) 416-5440",
+        "ProfileSize":  6656000
+    },
+    {
+        "FirstName":  "Krista",
+        "SurName":  "Lucier",
+        "Username":  "Krista.Lucier",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Krista.Lucier",
+        "MemberOf":  [
+                         "All Users",
+                         "O365_Admin_Computers",
+                         "AllowedToCreateGroups",
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(509) 225-8333",
+        "ProfileSize":  6640640
+    },
+    {
+        "FirstName":  "Ulla",
+        "SurName":  "Ardisj",
+        "Username":  "Ulla.Ardisj",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Ulla.Ardisj",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "O365_Admin_Computers",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admins"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  1469440
+    },
+    {
+        "FirstName":  "Cristina",
+        "SurName":  "Dumah",
+        "Username":  "Cristina.Dumah",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Cristina.Dumah",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "AllowedToCreateGroups",
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  24516608
+    },
+    {
+        "FirstName":  "Mair",
+        "SurName":  "Stephine",
+        "Username":  "Mair.Stephine",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Mair.Stephine",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "AllowedToCreateGroups",
+                         "All Users",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  11754496
+    },
+    {
+        "FirstName":  "Lanny",
+        "SurName":  "Orella",
+        "Username":  "Lanny.Orella",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lanny.Orella",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "All Company",
+                         "AllowedToCreateGroups",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  16901120
+    },
+    {
+        "FirstName":  "Verena",
+        "SurName":  "Grefer",
+        "Username":  "Verena.Grefer",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Verena.Grefer",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Administrators",
+                         "LAPS HelpDesk",
+                         "All Users"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(008) 662-7116",
+        "ProfileSize":  20910080
+    },
+    {
+        "FirstName":  "Rebekah",
+        "SurName":  "Cassandre",
+        "Username":  "Rebekah.Cassandre",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Rebekah.Cassandre",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "All Company",
+                         "AllowedToCreateGroups",
+                         "All Users",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admins"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(369) 976-2330",
+        "ProfileSize":  17843200
+    },
+    {
+        "FirstName":  "Jelene",
+        "SurName":  "Erda",
+        "Username":  "Jelene.Erda",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Jelene.Erda",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  6989824
+    },
+    {
+        "FirstName":  "Helen-Elizabeth",
+        "SurName":  "Natalya",
+        "Username":  "Helen-Elizabeth.Natalya",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Helen-Elizabeth.Natalya",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "Binarymethod",
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14832640
+    },
+    {
+        "FirstName":  "Dollie",
+        "SurName":  "Lynnell",
+        "Username":  "Dollie.Lynnell",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Dollie.Lynnell",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers",
+                         "TestDistribution",
+                         "All Users",
+                         "All Company",
+                         "Binarymethod",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  51200
+    },
+    {
+        "FirstName":  "Nomi",
+        "SurName":  "Lorinda",
+        "Username":  "Nomi.Lorinda",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Nomi.Lorinda",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "TestDistribution"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(128) 770-2780",
+        "ProfileSize":  25781248
+    },
+    {
+        "FirstName":  "Minta",
+        "SurName":  "Seko",
+        "Username":  "Minta.Seko",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Minta.Seko",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14128128
+    },
+    {
+        "FirstName":  "Vanya",
+        "SurName":  "Kassab",
+        "Username":  "Vanya.Kassab",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Vanya.Kassab",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPS HelpDesk",
+                         "TestDistribution"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  23326720
+    },
+    {
+        "FirstName":  "Andriette",
+        "SurName":  "Bernadine",
+        "Username":  "Andriette.Bernadine",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Andriette.Bernadine",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "LAPS HelpDesk",
+                         "Binarymethod",
+                         "TestDistribution",
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Users",
+                         "O365_Admins",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  23764992
+    },
+    {
+        "FirstName":  "Vannie",
+        "SurName":  "Romano",
+        "Username":  "Vannie.Romano",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Vannie.Romano",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "O365_Admins",
+                         "LAPS HelpDesk",
+                         "TestDistribution",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  6128640
+    },
+    {
+        "FirstName":  "Lindsay",
+        "SurName":  "Chalmer",
+        "Username":  "Lindsay.Chalmer",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lindsay.Chalmer",
+        "MemberOf":  [
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Binarymethod",
+                         "AllowedToCreateGroups",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(825) 382-2710",
+        "ProfileSize":  22625280
+    },
+    {
+        "FirstName":  "Venita",
+        "SurName":  "Farwell",
+        "Username":  "Venita.Farwell",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Venita.Farwell",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPS HelpDesk",
+                         "O365_Admins",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8994816
+    },
+    {
+        "FirstName":  "Phylis",
+        "SurName":  "Celestia",
+        "Username":  "Phylis.Celestia",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Phylis.Celestia",
+        "MemberOf":  "All Users",
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  256000
+    },
+    {
+        "FirstName":  "Alicea",
+        "SurName":  "Bluefarb",
+        "Username":  "Alicea.Bluefarb",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Alicea.Bluefarb",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPS HelpDesk",
+                         "All Company"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(754) 449-8076",
+        "ProfileSize":  24667136
+    },
+    {
+        "FirstName":  "Nadya",
+        "SurName":  "Zoldi",
+        "Username":  "Nadya.Zoldi",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Nadya.Zoldi",
+        "MemberOf":  "LAPSWebUI_Admins_AAD",
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(783) 177-2296",
+        "ProfileSize":  19312640
+    },
+    {
+        "FirstName":  "Laura",
+        "SurName":  "Artamas",
+        "Username":  "Laura.Artamas",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Laura.Artamas",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers",
+                         "TestDistribution"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(121) 287-5800",
+        "ProfileSize":  660480
+    },
+    {
+        "FirstName":  "Misti",
+        "SurName":  "Ewer",
+        "Username":  "Misti.Ewer",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Misti.Ewer",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  3006464
+    },
+    {
+        "FirstName":  "Ailyn",
+        "SurName":  "Ashlen",
+        "Username":  "Ailyn.Ashlen",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Ailyn.Ashlen",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admin_Computers",
+                         "LAPSWebUI_Admins_AAD",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(556) 656-0179",
+        "ProfileSize":  11080704
+    },
+    {
+        "FirstName":  "Dana",
+        "SurName":  "Daffodil",
+        "Username":  "Dana.Daffodil",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Dana.Daffodil",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Company",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admins",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  21466112
+    },
+    {
+        "FirstName":  "Bonnibelle",
+        "SurName":  "Gensmer",
+        "Username":  "Bonnibelle.Gensmer",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Bonnibelle.Gensmer",
+        "MemberOf":  [
+                         "All Company",
+                         "Binarymethod",
+                         "All Users",
+                         "LAPS HelpDesk",
+                         "LAPSWebUI_Admins_AAD",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  22458368
+    },
+    {
+        "FirstName":  "Starla",
+        "SurName":  "Sybil",
+        "Username":  "Starla.Sybil",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Starla.Sybil",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "Group for Answers in Viva Engage",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Administrators",
+                         "All Users",
+                         "O365_Admins",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(851) 483-7012",
+        "ProfileSize":  25686016
+    },
+    {
+        "FirstName":  "Chantalle",
+        "SurName":  "Bell",
+        "Username":  "Chantalle.Bell",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Chantalle.Bell",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "O365_Admins"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(806) 261-9572",
+        "ProfileSize":  20998144
+    },
+    {
+        "FirstName":  "Noelyn",
+        "SurName":  "Kala",
+        "Username":  "Noelyn.Kala",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Noelyn.Kala",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPSWebUI_Admins_AAD",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  15694848
+    },
+    {
+        "FirstName":  "Yolande",
+        "SurName":  "Wonacott",
+        "Username":  "Yolande.Wonacott",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Yolande.Wonacott",
+        "MemberOf":  "AllowedToCreateGroups",
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  17332224
+    },
+    {
+        "FirstName":  "Meggi",
+        "SurName":  "Schott",
+        "Username":  "Meggi.Schott",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Meggi.Schott",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Company",
+                         "Binarymethod",
+                         "Group for Answers in Viva Engage",
+                         "O365_Admins",
+                         "Administrators"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(043) 438-4933",
+        "ProfileSize":  9450496
+    },
+    {
+        "FirstName":  "Britteny",
+        "SurName":  "Kan",
+        "Username":  "Britteny.Kan",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Britteny.Kan",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  21271552
+    },
+    {
+        "FirstName":  "Fiona",
+        "SurName":  "Harlene",
+        "Username":  "Fiona.Harlene",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Fiona.Harlene",
+        "MemberOf":  [
+                         "All Users",
+                         "Administrators",
+                         "All Company",
+                         "Group for Answers in Viva Engage",
+                         "LAPS HelpDesk",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  491520
+    },
+    {
+        "FirstName":  "Rosmunda",
+        "SurName":  "Berglund",
+        "Username":  "Rosmunda.Berglund",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Rosmunda.Berglund",
+        "MemberOf":  "AllowedToCreateGroups",
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  17583104
+    },
+    {
+        "FirstName":  "Myriam",
+        "SurName":  "Drogin",
+        "Username":  "Myriam.Drogin",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Myriam.Drogin",
+        "MemberOf":  "O365_Admin_Computers",
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  657408
+    },
+    {
+        "FirstName":  "Sande",
+        "SurName":  "Koeninger",
+        "Username":  "Sande.Koeninger",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Sande.Koeninger",
+        "MemberOf":  "LAPS HelpDesk",
+        "Domain":  "contoso.com",
+        "Phone":  "(921) 906-4788",
+        "ProfileSize":  12914688
+    },
+    {
+        "FirstName":  "Othilia",
+        "SurName":  "Ludly",
+        "Username":  "Othilia.Ludly",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Othilia.Ludly",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWebUI_Admins_AAD",
+                         "All Users",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8242176
+    },
+    {
+        "FirstName":  "Martica",
+        "SurName":  "Trisha",
+        "Username":  "Martica.Trisha",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Martica.Trisha",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "Binarymethod"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  12001280
+    },
+    {
+        "FirstName":  "Kerrie",
+        "SurName":  "Judy",
+        "Username":  "Kerrie.Judy",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Kerrie.Judy",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Users",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  496640
+    },
+    {
+        "FirstName":  "Bari",
+        "SurName":  "Helali",
+        "Username":  "Bari.Helali",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Bari.Helali",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8166400
+    },
+    {
+        "FirstName":  "Essa",
+        "SurName":  "Harland",
+        "Username":  "Essa.Harland",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Essa.Harland",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Binarymethod",
+                         "AllowedToCreateGroups",
+                         "All Users",
+                         "O365_Admins",
+                         "LAPSWebUI_Admins_AAD",
+                         "All Company",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  22404096
+    },
+    {
+        "FirstName":  "Susanna",
+        "SurName":  "Gyatt",
+        "Username":  "Susanna.Gyatt",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Susanna.Gyatt",
+        "MemberOf":  [
+                         "Administrators",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  15450112
+    },
+    {
+        "FirstName":  "Helen-Elizabeth",
+        "SurName":  "Light",
+        "Username":  "Helen-Elizabeth.Light",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Helen-Elizabeth.Light",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators",
+                         "O365_Admins",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  5721088
+    },
+    {
+        "FirstName":  "Veronike",
+        "SurName":  "Dzoba",
+        "Username":  "Veronike.Dzoba",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Veronike.Dzoba",
+        "MemberOf":  [
+                         "All Users",
+                         "All Company",
+                         "Binarymethod",
+                         "O365_Admins"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(223) 900-0559",
+        "ProfileSize":  2816000
+    },
+    {
+        "FirstName":  "Tamara",
+        "SurName":  "Solitta",
+        "Username":  "Tamara.Solitta",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Tamara.Solitta",
+        "MemberOf":  [
+                         "All Users",
+                         "O365_Admin_Computers",
+                         "O365_Admins",
+                         "LAPS HelpDesk",
+                         "Group for Answers in Viva Engage",
+                         "Administrators"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  977920
+    },
+    {
+        "FirstName":  "Almire",
+        "SurName":  "Fredek",
+        "Username":  "Almire.Fredek",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Almire.Fredek",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Group for Answers in Viva Engage",
+                         "AllowedToCreateGroups",
+                         "All Company",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  17752064
+    },
+    {
+        "FirstName":  "Modesty",
+        "SurName":  "Zales",
+        "Username":  "Modesty.Zales",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Modesty.Zales",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "O365_Admins"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(478) 684-2611",
+        "ProfileSize":  22457344
+    },
+    {
+        "FirstName":  "Ami",
+        "SurName":  "Ellora",
+        "Username":  "Ami.Ellora",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Ami.Ellora",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "All Company",
+                         "Administrators",
+                         "AllowedToCreateGroups",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(286) 545-7860",
+        "ProfileSize":  11387904
+    },
+    {
+        "FirstName":  "Sherline",
+        "SurName":  "Chavaree",
+        "Username":  "Sherline.Chavaree",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Sherline.Chavaree",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "O365_Admin_Computers",
+                         "Binarymethod",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(929) 299-1569",
+        "ProfileSize":  18007040
+    },
+    {
+        "FirstName":  "Camel",
+        "SurName":  "Eda",
+        "Username":  "Camel.Eda",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Camel.Eda",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admins",
+                         "O365_Admin_Computers",
+                         "All Users",
+                         "Administrators"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  20583424
+    },
+    {
+        "FirstName":  "Britt",
+        "SurName":  "Thaddaus",
+        "Username":  "Britt.Thaddaus",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Britt.Thaddaus",
+        "MemberOf":  [
+                         "Administrators",
+                         "LAPS HelpDesk",
+                         "Binarymethod",
+                         "AllowedToCreateGroups"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(519) 770-5732",
+        "ProfileSize":  14724096
+    },
+    {
+        "FirstName":  "Irita",
+        "SurName":  "Loss",
+        "Username":  "Irita.Loss",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Irita.Loss",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "LAPS HelpDesk",
+                         "Administrators",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(280) 235-2115",
+        "ProfileSize":  20330496
+    },
+    {
+        "FirstName":  "Patrizia",
+        "SurName":  "Paxton",
+        "Username":  "Patrizia.Paxton",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Patrizia.Paxton",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admins",
+                         "All Users"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(115) 666-7853",
+        "ProfileSize":  10558464
+    },
+    {
+        "FirstName":  "Hadria",
+        "SurName":  "Brigg",
+        "Username":  "Hadria.Brigg",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Hadria.Brigg",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "O365_Admin_Computers",
+                         "BinaryTreeCDSPowerShellGroup"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(099) 592-1246",
+        "ProfileSize":  18404352
+    },
+    {
+        "FirstName":  "Pegeen",
+        "SurName":  "Licha",
+        "Username":  "Pegeen.Licha",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Pegeen.Licha",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "TestDistribution",
+                         "AllowedToCreateGroups",
+                         "Administrators"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  1286144
+    },
+    {
+        "FirstName":  "Katrinka",
+        "SurName":  "Sibilla",
+        "Username":  "Katrinka.Sibilla",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Katrinka.Sibilla",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD",
+                         "Administrators"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8689664
+    },
+    {
+        "FirstName":  "Carilyn",
+        "SurName":  "Oram",
+        "Username":  "Carilyn.Oram",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Carilyn.Oram",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD",
+                         "TestDistribution",
+                         "All Users",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  2028544
+    },
+    {
+        "FirstName":  "Cherrita",
+        "SurName":  "Lebbie",
+        "Username":  "Cherrita.Lebbie",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Cherrita.Lebbie",
+        "MemberOf":  "Binarymethod",
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  757760
+    },
+    {
+        "FirstName":  "Colly",
+        "SurName":  "Carmena",
+        "Username":  "Colly.Carmena",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Colly.Carmena",
+        "MemberOf":  [
+                         "All Users",
+                         "TestDistribution",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  11322368
+    },
+    {
+        "FirstName":  "Elie",
+        "SurName":  "Whitcher",
+        "Username":  "Elie.Whitcher",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Elie.Whitcher",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "AllowedToCreateGroups",
+                         "LAPS HelpDesk",
+                         "O365_Admin_Computers",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "TestDistribution"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(272) 611-8750",
+        "ProfileSize":  18377728
+    },
+    {
+        "FirstName":  "Tawsha",
+        "SurName":  "Ryley",
+        "Username":  "Tawsha.Ryley",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Tawsha.Ryley",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "Binarymethod"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  11675648
+    },
+    {
+        "FirstName":  "Tamra",
+        "SurName":  "Klepac",
+        "Username":  "Tamra.Klepac",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Tamra.Klepac",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Administrators"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(842) 931-1299",
+        "ProfileSize":  22905856
+    },
+    {
+        "FirstName":  "Darice",
+        "SurName":  "Treharne",
+        "Username":  "Darice.Treharne",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Darice.Treharne",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "AllowedToCreateGroups",
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(774) 243-5533",
+        "ProfileSize":  11803648
+    },
+    {
+        "FirstName":  "Reggi",
+        "SurName":  "Delacourt",
+        "Username":  "Reggi.Delacourt",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Reggi.Delacourt",
+        "MemberOf":  "TestDistribution",
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  17813504
+    },
+    {
+        "FirstName":  "Cyndi",
+        "SurName":  "Dreher",
+        "Username":  "Cyndi.Dreher",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Cyndi.Dreher",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "LAPS HelpDesk",
+                         "O365_Admins",
+                         "Administrators",
+                         "AllowedToCreateGroups",
+                         "TestDistribution"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  8274944
+    },
+    {
+        "FirstName":  "Constancia",
+        "SurName":  "Laven",
+        "Username":  "Constancia.Laven",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Constancia.Laven",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Group for Answers in Viva Engage",
+                         "All Company",
+                         "TestDistribution"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(208) 101-7080",
+        "ProfileSize":  6815744
+    },
+    {
+        "FirstName":  "Dorella",
+        "SurName":  "Archy",
+        "Username":  "Dorella.Archy",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Dorella.Archy",
+        "MemberOf":  "Group for Answers in Viva Engage",
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  4045824
+    },
+    {
+        "FirstName":  "Bess",
+        "SurName":  "Jonette",
+        "Username":  "Bess.Jonette",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Bess.Jonette",
+        "MemberOf":  [
+                         "Administrators",
+                         "AllowedToCreateGroups",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  24276992
+    },
+    {
+        "FirstName":  "Janifer",
+        "SurName":  "Schug",
+        "Username":  "Janifer.Schug",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Janifer.Schug",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admin_Computers",
+                         "Group for Answers in Viva Engage",
+                         "Administrators",
+                         "All Users",
+                         "LAPS HelpDesk",
+                         "Binarymethod"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(095) 205-1398",
+        "ProfileSize":  12189696
+    },
+    {
+        "FirstName":  "Novelia",
+        "SurName":  "Isolda",
+        "Username":  "Novelia.Isolda",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Novelia.Isolda",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "AllowedToCreateGroups",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admins",
+                         "Administrators",
+                         "All Users",
+                         "Binarymethod"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(861) 561-6792",
+        "ProfileSize":  23939072
+    },
+    {
+        "FirstName":  "Clarine",
+        "SurName":  "Camm",
+        "Username":  "Clarine.Camm",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Clarine.Camm",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPS HelpDesk",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers",
+                         "O365_Admins"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  18500608
+    },
+    {
+        "FirstName":  "Brittne",
+        "SurName":  "Platus",
+        "Username":  "Brittne.Platus",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Brittne.Platus",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "LAPSWebUI_Admins_AAD",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "O365_Admin_Computers",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "(214) 760-1465",
+        "ProfileSize":  21423104
+    },
+    {
+        "FirstName":  "Thomasina",
+        "SurName":  "Grube",
+        "Username":  "Thomasina.Grube",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Thomasina.Grube",
+        "MemberOf":  "AllowedToCreateGroups",
+        "Domain":  "development.contoso.com",
+        "Phone":  "(390) 414-6054",
+        "ProfileSize":  19617792
+    },
+    {
+        "FirstName":  "Isabelita",
+        "SurName":  "Latouche",
+        "Username":  "Isabelita.Latouche",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Isabelita.Latouche",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "Binarymethod",
+                         "All Users",
+                         "LAPSWebUI_Admins_AAD"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  12815360
+    },
+    {
+        "FirstName":  "Regina",
+        "SurName":  "Lorusso",
+        "Username":  "Regina.Lorusso",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Regina.Lorusso",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Group for Answers in Viva Engage",
+                         "O365_Admins"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(378) 008-4449",
+        "ProfileSize":  4346880
+    },
+    {
+        "FirstName":  "Val",
+        "SurName":  "Benoit",
+        "Username":  "Val.Benoit",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Val.Benoit",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Binarymethod",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admins",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  14308352
+    },
+    {
+        "FirstName":  "Beverly",
+        "SurName":  "Rebe",
+        "Username":  "Beverly.Rebe",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Beverly.Rebe",
+        "MemberOf":  [
+                         "O365_Admin_Computers",
+                         "All Users",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Group for Answers in Viva Engage",
+                         "O365_Admins"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  19946496
+    },
+    {
+        "FirstName":  "Lilia",
+        "SurName":  "Lenette",
+        "Username":  "Lilia.Lenette",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lilia.Lenette",
+        "MemberOf":  "LAPS HelpDesk",
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  6417408
+    },
+    {
+        "FirstName":  "Cleopatra",
+        "SurName":  "Lewin",
+        "Username":  "Cleopatra.Lewin",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Cleopatra.Lewin",
+        "MemberOf":  "TestDistribution",
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  11521024
+    },
+    {
+        "FirstName":  "Matilde",
+        "SurName":  "Lunnete",
+        "Username":  "Matilde.Lunnete",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Matilde.Lunnete",
+        "MemberOf":  "LAPS HelpDesk",
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(727) 929-2790",
+        "ProfileSize":  363520
+    },
+    {
+        "FirstName":  "Fernandina",
+        "SurName":  "Osy",
+        "Username":  "Fernandina.Osy",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Fernandina.Osy",
+        "MemberOf":  [
+                         "LAPS HelpDesk",
+                         "Administrators"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(608) 299-2254",
+        "ProfileSize":  18241536
+    },
+    {
+        "FirstName":  "La Verne",
+        "SurName":  "Iong",
+        "Username":  "La Verne.Iong",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\La Verne.Iong",
+        "MemberOf":  [
+                         "All Company",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "TestDistribution",
+                         "Administrators"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  11870208
+    },
+    {
+        "FirstName":  "Alli",
+        "SurName":  "Chita",
+        "Username":  "Alli.Chita",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Alli.Chita",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "Binarymethod",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "TestDistribution",
+                         "Administrators"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "",
+        "ProfileSize":  2361344
+    },
+    {
+        "FirstName":  "Gretal",
+        "SurName":  "Utley",
+        "Username":  "Gretal.Utley",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Gretal.Utley",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "Binarymethod"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(001) 279-3441",
+        "ProfileSize":  3777536
+    },
+    {
+        "FirstName":  "Sybyl",
+        "SurName":  "Alba",
+        "Username":  "Sybyl.Alba",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Sybyl.Alba",
+        "MemberOf":  [
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admins",
+                         "O365_Admin_Computers",
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPS HelpDesk",
+                         "All Users"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  18846720
+    },
+    {
+        "FirstName":  "Kirbee",
+        "SurName":  "Cyprus",
+        "Username":  "Kirbee.Cyprus",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Kirbee.Cyprus",
+        "MemberOf":  [
+                         "All Company",
+                         "All Users",
+                         "AllowedToCreateGroups",
+                         "LAPS HelpDesk",
+                         "Group for Answers in Viva Engage"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  12049408
+    },
+    {
+        "FirstName":  "Toni",
+        "SurName":  "Chuah",
+        "Username":  "Toni.Chuah",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Toni.Chuah",
+        "MemberOf":  [
+                         "All Users",
+                         "LAPS HelpDesk",
+                         "TestDistribution",
+                         "Binarymethod",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "All Company"
+                     ],
+        "Domain":  "us.contoso.com",
+        "Phone":  "(360) 411-1348",
+        "ProfileSize":  11458560
+    },
+    {
+        "FirstName":  "Willie",
+        "SurName":  "Molini",
+        "Username":  "Willie.Molini",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Willie.Molini",
+        "MemberOf":  [
+                         "Administrators",
+                         "AllowedToCreateGroups",
+                         "All Company",
+                         "LAPSWebUI_Admins_AAD",
+                         "LAPSWEBUI_TECHS_AAD"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(511) 515-3069",
+        "ProfileSize":  16207872
+    },
+    {
+        "FirstName":  "Catlee",
+        "SurName":  "Ferree",
+        "Username":  "Catlee.Ferree",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Catlee.Ferree",
+        "MemberOf":  "LAPSWEBUI_TECHS_AAD",
+        "Domain":  "development.contoso.com",
+        "Phone":  "(397) 367-1407",
+        "ProfileSize":  4438016
+    },
+    {
+        "FirstName":  "Jana",
+        "SurName":  "Baudin",
+        "Username":  "Jana.Baudin",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Jana.Baudin",
+        "MemberOf":  [
+                         "AllowedToCreateGroups",
+                         "O365_Admins",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "TestDistribution"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(508) 999-5339",
+        "ProfileSize":  11735040
+    },
+    {
+        "FirstName":  "Devora",
+        "SurName":  "Huberty",
+        "Username":  "Devora.Huberty",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Devora.Huberty",
+        "MemberOf":  "Binarymethod",
+        "Domain":  "contoso.com",
+        "Phone":  "(037) 836-7965",
+        "ProfileSize":  4292608
+    },
+    {
+        "FirstName":  "Lorenza",
+        "SurName":  "Jordain",
+        "Username":  "Lorenza.Jordain",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Lorenza.Jordain",
+        "MemberOf":  "Binarymethod",
+        "Domain":  "development.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  919552
+    },
+    {
+        "FirstName":  "Tallulah",
+        "SurName":  "Waylan",
+        "Username":  "Tallulah.Waylan",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Tallulah.Waylan",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "Group for Answers in Viva Engage",
+                         "AllowedToCreateGroups",
+                         "LAPSWEBUI_TECHS_AAD",
+                         "O365_Admins"
+                     ],
+        "Domain":  "development.contoso.com",
+        "Phone":  "(225) 592-5241",
+        "ProfileSize":  3895296
+    },
+    {
+        "FirstName":  "Pearline",
+        "SurName":  "Weig",
+        "Username":  "Pearline.Weig",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Pearline.Weig",
+        "MemberOf":  [
+                         "LAPSWEBUI_TECHS_AAD",
+                         "Group for Answers in Viva Engage",
+                         "All Company",
+                         "AllowedToCreateGroups",
+                         "LAPSWebUI_Admins_AAD",
+                         "All Users"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(238) 852-3963",
+        "ProfileSize":  9548800
+    },
+    {
+        "FirstName":  "Rayshell",
+        "SurName":  "Renell",
+        "Username":  "Rayshell.Renell",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Rayshell.Renell",
+        "MemberOf":  [
+                         "Binarymethod",
+                         "Group for Answers in Viva Engage",
+                         "All Company"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(127) 048-3734",
+        "ProfileSize":  23487488
+    },
+    {
+        "FirstName":  "Hulda",
+        "SurName":  "Leschen",
+        "Username":  "Hulda.Leschen",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Hulda.Leschen",
+        "MemberOf":  [
+                         "O365_Admins",
+                         "Group for Answers in Viva Engage",
+                         "Binarymethod",
+                         "AllowedToCreateGroups",
+                         "Administrators",
+                         "O365_Admin_Computers",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "hr.contoso.com",
+        "Phone":  "(724) 792-0082",
+        "ProfileSize":  4222976
+    },
+    {
+        "FirstName":  "Arlana",
+        "SurName":  "Belva",
+        "Username":  "Arlana.Belva",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Arlana.Belva",
+        "MemberOf":  [
+                         "TestDistribution",
+                         "All Company",
+                         "O365_Admins",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "O365_Admin_Computers"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(602) 764-7651",
+        "ProfileSize":  23899136
+    },
+    {
+        "FirstName":  "Harri",
+        "SurName":  "Cissie",
+        "Username":  "Harri.Cissie",
+        "Enabled":  true,
+        "ProfilePath":  "C:\\Users\\Harri.Cissie",
+        "MemberOf":  [
+                         "LAPSWebUI_Admins_AAD",
+                         "O365_Admin_Computers",
+                         "BinaryTreeCDSPowerShellGroup",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "contoso.com",
+        "Phone":  "(523) 542-3576",
+        "ProfileSize":  2856960
+    },
+    {
+        "FirstName":  "Lissie",
+        "SurName":  "Belding",
+        "Username":  "Lissie.Belding",
+        "Enabled":  false,
+        "ProfilePath":  "C:\\Users\\Lissie.Belding",
+        "MemberOf":  [
+                         "Group for Answers in Viva Engage",
+                         "LAPS HelpDesk"
+                     ],
+        "Domain":  "marketing.contoso.com",
+        "Phone":  "",
+        "ProfileSize":  16739328
+    }
+]
