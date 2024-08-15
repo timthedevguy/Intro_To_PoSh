@@ -2,35 +2,39 @@
 # Writing and Using Functions
 # -------------------------------------------------------
 
-BoolToReadable
+Convert-BoolToHuman
 
 # Simple Function
-Function BoolToReadable {
-    "Yes"
+Function Convert-BoolToHuman {
+    "No"
 }
 
-BoolToReadable
+# How to see what Function code is loaded in the PS Session
+${function:Convert-BoolToHuman}
+
+Convert-BoolToHuman
 
 # --------------------------------------------------------------------------------------------------------------
 # 6.1 Simple Function with Arguments
 # --------------------------------------------------------------------------------------------------------------
-Function BoolToReadable($value, $second) {
+Function Convert-BoolToHuman($value, $second, $third) {
     $value
     $second
+    $third
 }
 
 
 
-BoolToReadable "tim" "lkjsdf"
+Convert-BoolToHuman "tim" "lkjsdf"
 #              ----- 
 #            $value  
 
 # --------------------------------------------------------------------------------------------------------------
 # 6.2 Function with Basic Parameters
 # --------------------------------------------------------------------------------------------------------------
-Function BoolToReadable {
+Function Convert-BoolToHuman {
     param(
-        [bool] $Current
+        [bool]$Current
     )
     
     if($Current) {
@@ -40,12 +44,12 @@ Function BoolToReadable {
     return "No"
 }
 
-BoolToReadable -Current $false
+Convert-BoolToHuman -Current "lkjalskjsafd"
 
 # --------------------------------------------------------------------------------------------------------------
 # 6.3 Function with Advanced Parameters
 # --------------------------------------------------------------------------------------------------------------
-Function BoolToReadable {
+Function Convert-BoolToHuman {
     param(
         [Parameter(Mandatory = $true)]
         [bool] $Current = $false,
@@ -53,7 +57,7 @@ Function BoolToReadable {
         [string]$name = "Tim"
     )
     Write-Host $name
-    if($Current) {
+    if($Current -eq $true) {
         
         return "Yes"
     }
@@ -61,13 +65,13 @@ Function BoolToReadable {
     "No"
 }
 
-BoolToReadable
-BoolToReadable -Current $true -name "Bob"
+Convert-BoolToHuman
+Convert-BoolToHuman -Current ";lkjsadf;" -name "Bob"
 
 # --------------------------------------------------------------------------------------------------------------
 # 6.3 Function with Advanced Parameter + Common Parameters (Cmdlet)
 # --------------------------------------------------------------------------------------------------------------
-Function BoolToReadable {
+Function Convert-BoolToHuman {
     [CmdletBinding()]
 
     param(
@@ -84,9 +88,9 @@ Function BoolToReadable {
     "No"
 }
 $VerbosePreference = "SilentlyContinue"
-BoolToReadable
-BoolToReadable -Current $false
-BoolToReadable -Current $true -Verbose:$VerbosePreference
+Convert-BoolToHuman
+Convert-BoolToHuman -Current $true
+Convert-BoolToHuman -Current $true -Verbose:$VerbosePreference
 
 # --------------------------------------------------------------------------------------------------------------
 # 6.4 Function Dot Sourcing

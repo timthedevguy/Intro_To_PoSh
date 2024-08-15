@@ -50,14 +50,35 @@ break
 
 
 
-# Work on whatever excersises you'd like until 0930
+# Work on whatever excersises you'd like until 1400
 # Then:
 #    Functions
 #    Remoting
-#    Infrastructure Samples
+#    Aliases
 
 # Ignore any reference to Write-TSXOutput, use Write-Host instead...the function provided by Jordan
 # does not work anymore
+
+Write-Host "Message" -ForegroundColor Blue  #<-- Write Host with Color example to replace Write-TsxOutput
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 $colors = "Red", "Orange", "Yellow", "Green", "Blue", "Indigo", "Violet"
 

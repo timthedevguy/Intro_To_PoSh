@@ -9,12 +9,12 @@
     LINK
 
 .NOTES
-    FileName: Get-Extension.ps1
+    FileName: Untitled-1
     Author: Author
     Contact: TwitterHandle
-    Created: 2024-08-13
+    Created: 2024-08-15
 
-    Version - 0.0.1 - 2024-08-13
+    Version - 0.0.1 - 2024-08-15
 
     License Info:
     MIT License
@@ -45,16 +45,18 @@
 
 [cmdletbinding()]
 param(
-    [Parameter(ParameterSetName = 'Default', Mandatory = $false, ValueFromPipeline=$true, ValueFromPipelineByPropertyName=$true)]
-    [string]$Path
-)
-begin{
-    Write-Verbose "Ran Begin Block"
-}
+        [Parameter()]
+        [bool] $Current
+    )
+begin{}
 process{
-    Write-Verbose "Working on file: $($Path)"
-    $Path.SubString(($Path.Length-1)-2,3)
+    Write-Verbose "Current Value is: $($Current.ToString())"   
+
+if($Current) {
+    
+    return "Yes"
 }
-end {
-    Write-Verbose "Ran End Block"
+
+"No"
 }
+end{}

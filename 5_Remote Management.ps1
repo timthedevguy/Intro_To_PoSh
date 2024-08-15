@@ -46,6 +46,7 @@ Get-PSSession | Remove-PSSession
 # command
 
 # Simple command
+Invoke-Command -ComputerName VMHOST02 -ScriptBlock {Write-Output $ENV:COMPUTERNAME}
 Invoke-Command -Session $session -ScriptBlock {Write-Output $ENV:COMPUTERNAME}
 
 # More complex, also demonstrates that a script block can be assigned to a variable as well!
