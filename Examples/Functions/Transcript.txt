@@ -1,12 +1,12 @@
 ﻿**********************
 Windows PowerShell transcript start
-Start time: 20240814113008
+Start time: 20240814152120
 Username: AzureAD\TimDavis
 RunAs User: AzureAD\TimDavis
 Configuration Name: 
 Machine: LTTIMDAVIS (Microsoft Windows NT 10.0.22631.0)
 Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\TimDavis\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
-Process ID: 26584
+Process ID: 24824
 PSVersion: 5.1.22621.3880
 PSEdition: Desktop
 PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.3880
@@ -19,8 +19,23 @@ SerializationVersion: 1.1.0.1
 Transcript started, output file is .\Transcript.txt
 VERBOSE: Working on file: C:\file.txt
 Test Output
+C:\Users\TimDavis\Projects\Powershell\Intro_To_PoSh\Examples\Functions\Get-Extension.ps1 : Something is broken, try 
+again
+At C:\Users\TimDavis\Projects\Powershell\Intro_To_PoSh\Examples\Functions\Test.ps1:2 char:1
++ .\Get-Extension -Path "C:\file.txt" -Verbose
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException
+    + FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,Get-Extension.ps1
+C:\Users\TimDavis\Projects\Powershell\Intro_To_PoSh\Examples\Functions\Get-Extension.ps1 : Something is
+broken, try again
+At C:\Users\TimDavis\Projects\Powershell\Intro_To_PoSh\Examples\Functions\Test.ps1:2 char:1
++ .\Get-Extension -Path "C:\file.txt" -Verbose
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException
+    + FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,Get-Extension.ps1
+
 txt
 **********************
 Windows PowerShell transcript end
-End time: 20240814113008
+End time: 20240814152120
 **********************

@@ -45,7 +45,7 @@
 
 [cmdletbinding()]
 param(
-    [Parameter(ParameterSetName = 'Default', Mandatory = $true, ValueFromPipeline=$true, ValueFromPipelineByPropertyName=$true)]
+    [Parameter(ParameterSetName = 'Default', Mandatory = $false, ValueFromPipeline=$true, ValueFromPipelineByPropertyName=$true)]
     [string]$Path
 )
 begin{
@@ -53,6 +53,5 @@ begin{
 }
 process{
     Write-Verbose "Working on file: $($Path)"
-    Write-Output "Test Output" 
     $Path.SubString(($Path.Length-1)-2,3)
 }

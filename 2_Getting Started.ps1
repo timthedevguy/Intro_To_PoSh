@@ -7,7 +7,6 @@ break
 
 # Extensions for VS Code (How to install?)
 #   - Powershell
-#   - Rainbow Brackets
 #   - Todo Tree
 #   - VS Code Icons
 

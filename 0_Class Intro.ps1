@@ -37,4 +37,31 @@ break
 # Tuesday    - Excersises, Conditionals and Loops, Excersises
 # Wednesday  - Excersises, Sorting/Filtering, Error Handling/Streams, Excersises
 # Thursday   - Excersises, Functions, Remoting, Infra Interaction (Active Directory, AzureAD, Local Machine)
-# Friday     - Excersises, Help/Fallout, Pipeline Polution, Parameter Splatting,Debugging in VSCode
+# Friday     - Excersises, Help/Fallout, Pipeline Polution, Parameter Splatting,Debugging in VSCode, Snippets
+#              Talk about aliases and no no
+
+
+
+
+
+
+
+
+
+
+
+# Work on whatever excersises you'd like until 0930
+# Then:
+#    Functions
+#    Remoting
+#    Infrastructure Samples
+
+# Ignore any reference to Write-TSXOutput, use Write-Host instead...the function provided by Jordan
+# does not work anymore
+
+$colors = "Red", "Orange", "Yellow", "Green", "Blue", "Indigo", "Violet"
+
+$colors | % {
+    Write-Host "Current Rainbow Color is: $($_)" -ForegroundColor (0..15 | Get-Random)
+}
+

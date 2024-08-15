@@ -391,10 +391,15 @@ $colors = "Red"
 $colors | ForEach-Object {
     Write-Host "Current color is $($_)"
 }
-$files = Get-ChildItem -Path . -File
+$files = Get-ChildItem -Path . -File -Filter "*.ps1"
+Get-ChildItem -Path . -File | Where-Object {$_.Extension -eq ".ps1"}
+
 $files | ForEach-Object { 
-    .\Examples\Functions\Get-Extension.ps1 -path $_
+    $currentFile = $_
+    .\Examples\Functions\Get-Extension.ps1 -path $currentFile
 }
+
+
 
 # The above code shows that it will work even if the object is a single object
 # this allows you to treat everything as a collection and not worry about
@@ -492,8 +497,8 @@ switch((Get-Date).DayOfWeek) {
 }
 
 
+$today = Get-Date
 # Using simple If/ElseIf
-
 if($today -eq "Monday") {
     # Do SOmething
     Write-Host "10+10"

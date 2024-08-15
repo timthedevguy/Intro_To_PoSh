@@ -116,7 +116,7 @@ try{
 # The default for scripts is to Continue, this can be viewed by checking the
 # $ErrorActionPreference built in variable
 
-$ErrorActionPreference
+$ErrorActionPreference = "Stop"
 
 # You can set this variable to Stop at the beginning of your script to treat all
 # errors as Terminating.
