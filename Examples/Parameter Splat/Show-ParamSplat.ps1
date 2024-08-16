@@ -43,7 +43,7 @@
 
 #>
 
-[cmdletbinding()]
+[cmdletbinding(SupportsShouldProcess=$true)]
 param(
     [Parameter(ParameterSetName = 'Default', Mandatory = $true)]
     [string]$Name,
@@ -54,5 +54,7 @@ param(
 )
 begin{}
 process{
-    Write-Host "Cmdlet Show-ParamSplat.ps1 was ran using Parameters:`n`tName: $($Name)`n`tAge: $($Age)`n`tForce: $($Force)"
+    if($PSCmdlet.ShouldProcess($Name)){
+        Write-Host "Cmdlet Show-ParamSplat.ps1 was ran using Parameters:`n`tName: $($Name)`n`tAge: $($Age)`n`tForce: $($Force)"
+    }
 }

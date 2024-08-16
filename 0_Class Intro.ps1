@@ -37,8 +37,7 @@ break
 # Tuesday    - Exercises, Conditionals and Loops, Exercises
 # Wednesday  - Exercises, Sorting/Filtering, Error Handling/Streams, Exercises
 # Thursday   - Exercises, Functions, Remoting, Aliases, Snippets (VSCode)
-# Friday     - Exercises, Help/Fallout, Pipeline Polution, Parameter Splatting, Debugging in VSCode
-#              Infra Interaction (Active Directory, AzureAD, Local Machine)
+# Friday     - Final Exam :), Help/Fallout, Pipeline Polution, Parameter Splatting, WhatIf
 
 
 
